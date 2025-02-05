@@ -5,11 +5,18 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ApplicationManager {
     WebDriver wd;
+    HelperUser helperUser;
+
     public void init(){
         wd=new ChromeDriver();
         wd.navigate().to("https://telranedu.web.app/home");
-
+        helperUser=new HelperUser(wd);
     }
+
+    public HelperUser getHelperUser() {
+        return helperUser;
+    }
+
     public void stop(){
         wd.quit();
 
