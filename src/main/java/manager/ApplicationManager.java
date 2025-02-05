@@ -9,6 +9,7 @@ public class ApplicationManager {
 
     public void init(){
         wd=new ChromeDriver();
+        wd.manage().window().maximize();
         wd.navigate().to("https://telranedu.web.app/home");
         helperUser=new HelperUser(wd);
     }
