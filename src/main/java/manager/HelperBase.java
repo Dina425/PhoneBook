@@ -38,6 +38,7 @@ public class HelperBase {
         Alert alert = new WebDriverWait(wd, Duration.ofSeconds(10)).until(ExpectedConditions.alertIsPresent());
         if(alert!=null && alert.getText().contains(message)) {
             //click ok>> alert.accept();
+            pause(200);
 
 
             alert.accept();
@@ -48,7 +49,7 @@ public class HelperBase {
         return false;
 
     }
-    public void pause( int time) throws InterruptedException {
+    public void pause( int time){
         try {
             Thread.sleep(time);
         } catch (InterruptedException e) {
