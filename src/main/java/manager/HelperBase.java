@@ -35,10 +35,11 @@ public class HelperBase {
     }
 
     public boolean isAlertPresent(String message) {
-        Alert alert = new WebDriverWait(wd, Duration.ofSeconds(10)).until(ExpectedConditions.alertIsPresent());
+        Alert alert = new WebDriverWait(wd, Duration.ofSeconds(20)).until(ExpectedConditions.alertIsPresent());
         if(alert!=null && alert.getText().contains(message)) {
+            //equals if 100% match is needed
             //click ok>> alert.accept();
-            pause(200);
+            pause(4000);
 
 
             alert.accept();

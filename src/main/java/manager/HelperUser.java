@@ -4,6 +4,10 @@ import models.User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import java.time.Duration;
 
 public class HelperUser extends HelperBase {
     public HelperUser(WebDriver wd) {
@@ -32,14 +36,7 @@ public class HelperUser extends HelperBase {
     }
 
     public void fillLoginRegistrationform(User user) {
-//        WebElement emailInput= wd.findElement(By.name("email"));
-//        emailInput.click();
-//        emailInput.clear();
-//        emailInput.sendKeys(email);
-//        WebElement passwordInput= wd.findElement(By.xpath("//input[last()]"));
-//        passwordInput.click();
-//        passwordInput.clear();
-//        passwordInput.sendKeys(password);
+
         type(By.name("email"), user.getEmail());
         type(By.xpath("//input[last()]"), user.getPassword());
 
@@ -65,5 +62,12 @@ public class HelperUser extends HelperBase {
 
     public boolean isElementLogoutPresent() {
        return  isElementPresent(By.xpath("//button[text()='Sign Out']"));
+    }
+
+    public boolean isNoContactsHereDisplayed() {
+        WebDriverWait wait=new WebDriverWait(wd, Duration.ofSeconds(5));
+        return wait.until(ExpectedConditions.textToBePresentInElement(wd.findElement(By.cssSelector(".contact-page_message__2qafk>h1")),"No Contacts here!" ));
+
+
     }
 }
