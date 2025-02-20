@@ -1,10 +1,9 @@
-package models;
-
-
+package models;//package models;
 //import lombok.Builder;
 //import lombok.Getter;
 //import lombok.Setter;
 //import lombok.ToString;
+//
 //
 //@Getter
 //@Setter
@@ -71,17 +70,5 @@ public class Contacts {
 
     public String getDescription() {
         return description;
-    }
-
-    @Override
-    public String toString() {
-        return "Contacts{" +
-                "name='" + name + '\'' +
-                ", lastname='" + lastname + '\'' +
-                ", phoneNumber='" + phoneNumber + '\'' +
-                ", email='" + email + '\'' +
-                ", address='" + address + '\'' +
-                ", description='" + description + '\'' +
-                '}';
     }
 }

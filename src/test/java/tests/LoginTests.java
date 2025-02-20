@@ -37,6 +37,7 @@ public class LoginTests extends TestBase{
         app.getHelperUser().submitLogin();
 
         Assert.assertTrue(app.getHelperUser().isLogged());
+
     }
     @Test
     public void loginWrongEmail(){

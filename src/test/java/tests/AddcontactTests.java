@@ -18,19 +18,24 @@ public class AddcontactTests extends TestBase{
     public void addNewContactSuccess(){
         int i = (int)((System.currentTimeMillis()/1000)%3600);
         Contacts contact=new Contacts();
-        contact.setName("Kate")
-                .setLastname("Wisdom")
-                .setPhoneNumber("2334"+i)
+        contact.setName("Alik")
+                .setLastname("Koby")
+                .setPhoneNumber("1234234"+i)
+                .setEmail("asdas@gmail.com")
                 .setAddress("Akko")
-                .setDescription("fire");
+                .setDescription("Rutina");
 
-        app.getHelperContacts().SubmitADDButton();
-  //      app.getHelperContacts().SubmitADDButton();
-//        app.getHelperContacts().fillContactsForm(contact);
-//        app.getHelperContacts().submitSaveButton();
-//        app.getHelperUser().isElementPresent(By.cssSelector("a[href='/home']"));
-//        Assert.assertTrue(app.getHelperUser().isElementPresent(By.cssSelector("a[href='/home']")));
-//        app.getHelperUser().click(By.cssSelector("a[4]"));
+
+        app.getHelperContact().SubmitADDButton();
+        app.getHelperContact().fillContactsForm(contact);
+        app.getHelperContact().submitSaveButton();
+        Assert.assertTrue(app.getHelperUser().isElementPresent(By.xpath("//*[text()='Alik']")));
+        Assert.assertTrue(app.getHelperUser().isElementPresent(By.xpath("//*[text()='Alik']")));
+
+
+
+
+
 
 
 
