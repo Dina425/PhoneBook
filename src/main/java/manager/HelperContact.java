@@ -27,4 +27,8 @@ public class HelperContact extends HelperBase{
         pause(6000);
         click(By.xpath("//div[@class='add_form__2rsm2']//button"));
     }
+
+    public boolean isElementSaveStillPresent() {
+        return isElementPresent(By.xpath("//div[@class='add_form__2rsm2']//button"));
+    }
 }
