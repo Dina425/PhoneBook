@@ -115,7 +115,7 @@ public class HelperContact extends HelperBase{
             click(By.xpath("(//div[@class='contact-item_card__2SOIM'])"));
             click(By.xpath("//button[text()='Remove']"));
             pause(1000);
-            System.out.println(x);
+
         }
 
     }
