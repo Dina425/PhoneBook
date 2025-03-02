@@ -1,6 +1,0 @@
-19:59:24.762 INFO  manager.ApplicationManager - All tests run in Crome Browser
-19:59:25.266 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
-19:59:25.284 INFO  tests.TestBase - Name of method ---> loginWrongPassword
-19:59:30.345 INFO  tests.TestBase - Before method finished logout
-19:59:30.347 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456
-19:59:35.719 INFO  tests.TestBase - Assert check is alert Wrong email or password
