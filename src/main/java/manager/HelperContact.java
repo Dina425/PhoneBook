@@ -95,6 +95,7 @@ public class HelperContact extends HelperBase{
     public int deleteFirstContact() {
 
         int before=countElements();
+        logger.info("Number of Contacts before remove---> "+before);
 
 
         click(By.xpath("(//div[@class='contact-item_card__2SOIM'])[1]"));
@@ -102,6 +103,7 @@ public class HelperContact extends HelperBase{
         pause(1000);
 
         int after=countElements();
+        logger.info("Number of Contacts after remove---> "+before);
 
         return before-after;
 
@@ -109,14 +111,16 @@ public class HelperContact extends HelperBase{
 
 
     public void deleteAllContact() {
-        int res=countElements();
-        for( int x=0;x<res;x++){
-
-            click(By.xpath("(//div[@class='contact-item_card__2SOIM'])"));
-            click(By.xpath("//button[text()='Remove']"));
-            pause(1000);
-
-        }
+//        int res=countElements();
+//        for( int x=0;x<res;x++){
+//
+//            click(By.xpath("(//div[@class='contact-item_card__2SOIM'])"));
+//            click(By.xpath("//button[text()='Remove']"));
+//            pause(1000);
+//
+//        }
+        while (countElements()!=0)
+            deleteFirstContact();
 
     }
 }

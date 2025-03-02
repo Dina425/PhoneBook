@@ -1,0 +1,8 @@
+20:04:08.449 INFO  manager.ApplicationManager - All tests run in Crome Browser
+20:04:09.258 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+20:04:09.279 INFO  tests.TestBase - Name of method ---> registrationEmptyEmail
+20:04:26.637 INFO  tests.TestBase - Name of method ---> registrationEmptyPassword
+20:04:36.419 INFO  tests.TestBase - Name of method ---> registrationExistUser
+20:04:46.264 INFO  tests.TestBase - Name of method ---> registrationSuccess
+20:04:52.267 INFO  tests.TestBase - Name of method ---> registrationWrongEmail
+20:04:57.055 INFO  tests.TestBase - Name of method ---> registrationWrongPassword

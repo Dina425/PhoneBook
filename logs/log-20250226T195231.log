@@ -1,0 +1,17 @@
+19:52:34.350 INFO  manager.ApplicationManager - All tests run in Crome Browser
+19:52:34.902 INFO  manager.ApplicationManager - The lonk--->https://telranedu.web.app/home
+19:52:34.919 INFO  tests.TestBase - Name of method ---> loginSuccess
+19:52:39.959 INFO  tests.TestBase - Before method finished logout
+19:52:40.241 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+19:52:41.226 INFO  tests.TestBase - End
+19:52:41.229 INFO  tests.TestBase - Name of method ---> loginSuccess1
+19:52:41.278 INFO  tests.TestBase - Before method finished logout
+19:52:41.815 INFO  tests.TestBase - Name of method ---> loginUnregisteredUser
+19:52:41.864 INFO  tests.TestBase - Before method finished logout
+19:52:41.865 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+19:53:02.474 INFO  tests.TestBase - Name of method ---> loginWrongEmail
+19:53:02.542 INFO  tests.TestBase - Before method finished logout
+19:53:02.543 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+19:53:23.142 INFO  tests.TestBase - Name of method ---> loginWrongPassword
+19:53:23.200 INFO  tests.TestBase - Before method finished logout
+19:53:23.200 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!

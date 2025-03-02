@@ -19,6 +19,7 @@ public class HelperUser extends HelperBase {
 //        WebElement loginTab= wd.findElement(By.cssSelector("a[href='/login']"));
 //        loginTab.click();
         click(By.cssSelector("a[href='/login']"));
+        //logger.info("Open for by click on button with locator By.cssSelector(\"a[href='/login']\")");
     }
 
     public void fillLoginRegistrationform(String email, String password) {
@@ -64,12 +65,7 @@ public class HelperUser extends HelperBase {
        return  isElementPresent(By.xpath("//button[text()='Sign Out']"));
     }
 
-    public boolean isNoContactsHereDisplayed() {
-        WebDriverWait wait=new WebDriverWait(wd, Duration.ofSeconds(5));
-        return wait.until(ExpectedConditions.textToBePresentInElement(wd.findElement(By.cssSelector(".contact-page_message__2qafk>h1")),"No Contacts here!" ));
 
-
-    }
 
     public void login(User user) {
         openLoginRegistrationForm();

@@ -1,0 +1,65 @@
+18:26:57.685 INFO  manager.ApplicationManager - All tests run in Chrome Browser
+18:26:57.728 INFO  manager.WDListener - url-->https://telranedu.web.app/home
+18:26:58.363 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+18:26:58.382 INFO  tests.TestBase - Name of method ---> loginSuccess
+18:27:03.431 INFO  tests.TestBase - Before method finished logout
+18:27:03.433 INFO  manager.WDListener - Before find element
+18:27:03.467 INFO  manager.WDListener - After find element
+18:27:03.521 INFO  manager.WDListener - Before find element
+18:27:03.534 INFO  manager.WDListener - After find element
+18:27:03.674 INFO  manager.WDListener - Before find element
+18:27:03.685 INFO  manager.WDListener - After find element
+18:27:03.760 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+18:27:03.760 INFO  manager.WDListener - Before find element
+18:27:03.771 INFO  manager.WDListener - After find element
+18:27:04.771 INFO  tests.TestBase - End
+18:27:04.774 INFO  tests.TestBase - Name of method ---> loginSuccess1
+18:27:04.788 INFO  manager.WDListener - Before find element
+18:27:04.802 INFO  manager.WDListener - After find element
+18:27:04.845 INFO  tests.TestBase - Before method finished logout
+18:27:04.847 INFO  manager.WDListener - Before find element
+18:27:04.862 INFO  manager.WDListener - After find element
+18:27:04.894 INFO  manager.WDListener - Before find element
+18:27:04.904 INFO  manager.WDListener - After find element
+18:27:04.998 INFO  manager.WDListener - Before find element
+18:27:05.013 INFO  manager.WDListener - After find element
+18:27:05.111 INFO  manager.WDListener - Before find element
+18:27:05.125 INFO  manager.WDListener - After find element
+18:27:05.449 INFO  tests.TestBase - Name of method ---> loginUnregisteredUser
+18:27:05.459 INFO  manager.WDListener - Before find element
+18:27:05.471 INFO  manager.WDListener - After find element
+18:27:05.496 INFO  tests.TestBase - Before method finished logout
+18:27:05.497 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+18:27:05.497 INFO  manager.WDListener - Before find element
+18:27:05.507 INFO  manager.WDListener - After find element
+18:27:05.536 INFO  manager.WDListener - Before find element
+18:27:05.546 INFO  manager.WDListener - After find element
+18:27:05.621 INFO  manager.WDListener - Before find element
+18:27:05.628 INFO  manager.WDListener - After find element
+18:27:05.703 INFO  manager.WDListener - Before find element
+18:27:05.711 INFO  manager.WDListener - After find element
+18:27:10.285 INFO  tests.TestBase - Assert check is alert Wrong email or password
+18:27:10.288 INFO  tests.TestBase - Name of method ---> loginWrongEmail
+18:27:15.335 INFO  tests.TestBase - Before method finished logout
+18:27:15.336 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+18:27:15.336 INFO  manager.WDListener - Before find element
+18:27:15.346 INFO  manager.WDListener - After find element
+18:27:15.371 INFO  manager.WDListener - Before find element
+18:27:15.393 INFO  manager.WDListener - After find element
+18:27:15.493 INFO  manager.WDListener - Before find element
+18:27:15.504 INFO  manager.WDListener - After find element
+18:27:15.574 INFO  manager.WDListener - Before find element
+18:27:15.582 INFO  manager.WDListener - After find element
+18:27:20.137 INFO  tests.TestBase - Assert check is alert Wrong email or password
+18:27:20.138 INFO  tests.TestBase - Name of method ---> loginWrongPassword
+18:27:25.175 INFO  tests.TestBase - Before method finished logout
+18:27:25.175 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456
+18:27:25.175 INFO  manager.WDListener - Before find element
+18:27:25.189 INFO  manager.WDListener - After find element
+18:27:25.227 INFO  manager.WDListener - Before find element
+18:27:25.238 INFO  manager.WDListener - After find element
+18:27:25.329 INFO  manager.WDListener - Before find element
+18:27:25.352 INFO  manager.WDListener - After find element
+18:27:25.434 INFO  manager.WDListener - Before find element
+18:27:25.444 INFO  manager.WDListener - After find element
+18:27:29.998 INFO  tests.TestBase - Assert check is alert Wrong email or password

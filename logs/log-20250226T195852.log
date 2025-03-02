@@ -1,0 +1,5 @@
+19:58:55.426 INFO  manager.ApplicationManager - All tests run in Crome Browser
+19:58:55.926 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+19:58:55.945 INFO  tests.TestBase - Name of method ---> loginWrongPassword
+19:59:00.974 INFO  tests.TestBase - Before method finished logout
+19:59:00.976 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:now123456

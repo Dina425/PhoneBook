@@ -19,7 +19,7 @@ public class RegistrationTest extends TestBase {
         Random randome=new Random();
         int i=randome.nextInt(1000)+2000;
         User user=new User()
-                .setEmail("Dina"+i+"@gmail.com")
+                .setEmail("SonicBoom"+i+"@gmail.com")
                 .setPassword("Snow123456@");
         app.getHelperUser().openLoginRegistrationForm();
         app.getHelperUser().fillLoginRegistrationform(user);
@@ -30,18 +30,19 @@ public class RegistrationTest extends TestBase {
     @Test
     public void registrationWrongEmail(){
         User user=new User()
-                .setEmail("Dinagmail.com")
+                .setEmail("SonicBoomgmail.com")
                 .setPassword("Snow123456@");
         app.getHelperUser().openLoginRegistrationForm();
         app.getHelperUser().fillLoginRegistrationform(user);
         app.getHelperUser().submitRegistration();
+        app.getHelperContact().pause(1000);
         Assert.assertTrue(app.getHelperUser().isAlertPresent("Wrong email or password"));
     }
     @Test
     public void registrationWrongPassword(){
 
         User user=new User()
-                .setEmail("Dina@gmail.com")
+                .setEmail("SonicBoom@gmail.com")
                 .setPassword("Sn");
         app.getHelperUser().openLoginRegistrationForm();
         app.getHelperUser().fillLoginRegistrationform(user);
@@ -65,7 +66,7 @@ public class RegistrationTest extends TestBase {
         Random randome=new Random();
         int i=randome.nextInt(1000);
         User user=new User()
-                .setEmail("Dina"+i+"gmail.com")
+                .setEmail("SonicBoom"+i+"gmail.com")
                 .setPassword("");
         app.getHelperUser().openLoginRegistrationForm();
         app.getHelperUser().fillLoginRegistrationform(user);
@@ -76,12 +77,13 @@ public class RegistrationTest extends TestBase {
     public void registrationExistUser(){
 
         User user=new User()
-                .setEmail("bazhenovadina321@gmail.com")
-                .setPassword("3837115@Aa");
+                .setEmail("SonicBoom@gmail.com")
+                .setPassword("Snow123456!");
         app.getHelperUser().openLoginRegistrationForm();
         app.getHelperUser().fillLoginRegistrationform(user);
         app.getHelperUser().submitRegistration();
         Assert.assertTrue(app.getHelperUser().isAlertPresent("User already exist"));
 
 
-}}
+    }
+}

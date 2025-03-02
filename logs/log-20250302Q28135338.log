@@ -1,0 +1,46 @@
+13:53:40.997 INFO  manager.ApplicationManager - All tests run in Chrome Browser
+13:53:41.737 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+13:53:47.275 INFO  tests.TestBase - Name of method ---> addNewContactEmptyAddress
+13:53:54.911 INFO  tests.TestBase - Name of method ---> addNewContactEmptyLastName
+13:54:02.502 INFO  tests.TestBase - Name of method ---> addNewContactEmptyName
+13:54:10.114 INFO  tests.TestBase - Name of method ---> addNewContactEmptyNumber
+13:54:22.150 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFull
+13:54:31.086 INFO  tests.TestBase - Name of method ---> addNewContactSuccessPartly
+13:54:39.800 INFO  tests.TestBase - Name of method ---> addNewContactWrongEmail
+13:54:52.342 INFO  tests.TestBase - Name of method ---> addNewContactWrongNumber
+13:55:04.500 INFO  tests.TestBase - Name of method ---> loginSuccess
+13:55:04.556 INFO  tests.TestBase - Before method finished logout
+13:55:04.830 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+13:55:05.155 INFO  tests.TestBase - End
+13:55:05.156 INFO  tests.TestBase - Name of method ---> loginSuccess1
+13:55:05.196 INFO  tests.TestBase - Before method finished logout
+13:55:05.816 INFO  tests.TestBase - Name of method ---> loginUnregisteredUser
+13:55:05.875 INFO  tests.TestBase - Before method finished logout
+13:55:05.876 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+13:55:10.612 INFO  tests.TestBase - Assert check is alert Wrong email or password
+13:55:10.614 INFO  tests.TestBase - Name of method ---> loginWrongEmail
+13:55:15.632 INFO  tests.TestBase - Before method finished logout
+13:55:15.634 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+13:55:20.410 INFO  tests.TestBase - Assert check is alert Wrong email or password
+13:55:20.413 INFO  tests.TestBase - Name of method ---> loginWrongPassword
+13:55:25.457 INFO  tests.TestBase - Before method finished logout
+13:55:25.458 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456
+13:55:30.230 INFO  tests.TestBase - Assert check is alert Wrong email or password
+13:55:30.231 INFO  tests.TestBase - Name of method ---> registrationEmptyEmail
+13:55:47.623 INFO  tests.TestBase - Name of method ---> registrationEmptyPassword
+13:55:57.426 INFO  tests.TestBase - Name of method ---> registrationExistUser
+13:56:07.216 INFO  tests.TestBase - Name of method ---> registrationSuccess
+13:56:13.026 INFO  tests.TestBase - Name of method ---> registrationWrongEmail
+13:56:18.329 INFO  tests.TestBase - Name of method ---> registrationWrongPassword
+13:56:28.128 INFO  tests.TestBase - Name of method ---> removeAllContacts
+13:56:34.303 INFO  manager.HelperBase - Number of Contacts before remove---> 4
+13:56:35.394 INFO  manager.HelperBase - Number of Contacts after remove---> 4
+13:56:35.413 INFO  manager.HelperBase - Number of Contacts before remove---> 3
+13:56:36.486 INFO  manager.HelperBase - Number of Contacts after remove---> 3
+13:56:36.494 INFO  manager.HelperBase - Number of Contacts before remove---> 2
+13:56:37.560 INFO  manager.HelperBase - Number of Contacts after remove---> 2
+13:56:37.577 INFO  manager.HelperBase - Number of Contacts before remove---> 1
+13:56:43.709 INFO  manager.HelperBase - Number of Contacts after remove---> 1
+13:56:48.740 INFO  tests.TestBase - Name of method ---> removeFirstContact
+13:57:17.163 INFO  manager.HelperBase - Number of Contacts before remove---> 3
+13:57:18.263 INFO  manager.HelperBase - Number of Contacts after remove---> 3

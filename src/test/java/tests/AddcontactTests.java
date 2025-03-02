@@ -11,7 +11,7 @@ public class AddcontactTests extends TestBase{
     @BeforeClass
     public void preCondition(){
         if(!app.getHelperUser().isLogged())
-            app.getHelperUser().login(new User().setEmail("bazhenovadina321@gmail.com").setPassword("3837115@Aa"));
+            app.getHelperUser().login(new User().setEmail("sonicboom@gmail.com").setPassword("Snow123456!"));
 
     }
     @Test
@@ -29,8 +29,9 @@ public class AddcontactTests extends TestBase{
 
         app.getHelperContact().submitADDButton();
         app.getHelperContact().fillContactsForm(contact);
+        app.getHelperContact().getScreen("src/test/screenshots/screen"+i+".png");
         app.getHelperContact().submitSaveButton();
-        app.getHelperUser().pause(1000);
+        app.getHelperContact().pause(1000);
 
 
         Assert.assertTrue(app.getHelperContact().isContactAddedByName(contact.getName()));
@@ -53,7 +54,7 @@ public class AddcontactTests extends TestBase{
         app.getHelperContact().submitADDButton();
         app.getHelperContact().fillContactsForm(contact);
         app.getHelperContact().submitSaveButton();
-        app.getHelperUser().pause(1000);
+        app.getHelperContact().pause(1000);
 
         Assert.assertTrue(app.getHelperContact().isContactAddedByName(contact.getName()));
         Assert.assertTrue(app.getHelperContact().isContactAddedByPhoneNumber(contact.getPhoneNumber()));
@@ -102,13 +103,7 @@ public class AddcontactTests extends TestBase{
     @Test
     public void addNewContactWrongNumber(){
         int i = (int)((System.currentTimeMillis()/1000)%3600);
-//        Contacts contact=new Contacts();
-//        contact.setName("Koby")
-//                .setLastname("Yassy")
-//                .setPhoneNumber("1"+i)
-//                .setEmail("asdas@gmail.com")
-//                .setAddress("Akko")
-//                .setDescription("");
+
         Contacts contact=Contacts.builder()
                 .name("Kobby")
                 .lastname("Yassy")
