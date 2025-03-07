@@ -1,0 +1,54 @@
+20:38:27.446 INFO  manager.ApplicationManager - All tests run in Chrome Browser
+20:38:27.468 INFO  manager.WDListener - url-->https://telranedu.web.app/home
+20:38:28.220 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+20:38:28.232 INFO  manager.TestNGListener - Start test: Wed Mar 05 20:38:28 IST 2025
+20:38:28.250 INFO  tests.TestBase - Name of method ---> loginSuccess
+20:38:33.299 INFO  tests.TestBase - Before method finished logout
+20:38:33.300 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@4c37b5b]
+20:38:33.301 INFO  manager.WDListener - Before find element
+20:38:33.327 INFO  manager.WDListener - After find element
+20:38:33.376 INFO  manager.WDListener - Before find element
+20:38:33.390 INFO  manager.WDListener - After find element
+20:38:33.524 INFO  manager.WDListener - Before find element
+20:38:33.537 INFO  manager.WDListener - After find element
+20:38:33.612 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+20:38:33.613 INFO  tests.TestBase - Test data-->sonicboom@gmail.comPassword--->Snow123456!
+20:38:33.613 INFO  manager.WDListener - Before find element
+20:38:33.625 INFO  manager.WDListener - After find element
+20:38:34.616 INFO  tests.TestBase - End
+20:38:34.618 INFO  manager.TestNGListener - Start test: null
+20:38:34.619 INFO  tests.TestBase - Name of method ---> loginSuccess
+20:38:34.635 INFO  manager.WDListener - Before find element
+20:38:34.650 INFO  manager.WDListener - After find element
+20:38:34.680 INFO  tests.TestBase - Before method finished logout
+20:38:34.680 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@4c37b5b]
+20:38:34.680 INFO  manager.WDListener - Before find element
+20:38:34.690 INFO  manager.WDListener - After find element
+20:38:34.713 INFO  manager.WDListener - Before find element
+20:38:34.722 INFO  manager.WDListener - After find element
+20:38:34.795 INFO  manager.WDListener - Before find element
+20:38:34.804 INFO  manager.WDListener - After find element
+20:38:34.874 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+20:38:34.874 INFO  tests.TestBase - Test data-->sonicboom@gmail.comPassword--->Snow123456!
+20:38:34.874 INFO  manager.WDListener - Before find element
+20:38:34.883 INFO  manager.WDListener - After find element
+20:38:35.218 INFO  tests.TestBase - End
+20:38:35.219 INFO  manager.TestNGListener - Start test: null
+20:38:35.219 INFO  tests.TestBase - Name of method ---> loginSuccess
+20:38:35.235 INFO  manager.WDListener - Before find element
+20:38:35.254 INFO  manager.WDListener - After find element
+20:38:35.284 INFO  tests.TestBase - Before method finished logout
+20:38:35.284 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@4c37b5b]
+20:38:35.285 INFO  manager.WDListener - Before find element
+20:38:35.293 INFO  manager.WDListener - After find element
+20:38:35.315 INFO  manager.WDListener - Before find element
+20:38:35.322 INFO  manager.WDListener - After find element
+20:38:35.393 INFO  manager.WDListener - Before find element
+20:38:35.401 INFO  manager.WDListener - After find element
+20:38:35.470 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+20:38:35.470 INFO  tests.TestBase - Test data-->sonicboom@gmail.comPassword--->Snow123456!
+20:38:35.470 INFO  manager.WDListener - Before find element
+20:38:35.477 INFO  manager.WDListener - After find element
+20:38:35.806 INFO  tests.TestBase - End
+20:38:35.807 INFO  manager.TestNGListener - Start test: null
+20:38:35.809 INFO  manager.TestNGListener - End test: Gradle test
