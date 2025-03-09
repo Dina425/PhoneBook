@@ -43,7 +43,7 @@ public class LoginTests extends TestBase{
 
 
     @Test(dataProvider = "loginModel",dataProviderClass = DataProviderUser.class)
-    public void loginSuccessModel(User user){
+    public void loginSuccessModelDataProvider(User user){
 //        User user = new User();
 //        user.setEmail("sonicboom@gmail.com").setPassword("Snow123456!");
         logger.info("Test data-->"+user.toString());
@@ -51,6 +51,21 @@ public class LoginTests extends TestBase{
         app.getHelperUser().openLoginRegistrationForm();
         app.getHelperUser().fillLoginRegistrationform(user);
         app.getHelperUser().submitLogin();
+
+        Assert.assertTrue(app.getHelperUser().isLogged());
+
+    }
+    @Test(dataProvider = "loginFile",dataProviderClass = DataProviderUser.class)
+    public void loginSuccessModelDataproviderCSV(User user){
+//        User user = new User();
+//        user.setEmail("sonicboom@gmail.com").setPassword("Snow123456!");
+        app.getHelperUser().pause(3000);
+        logger.info("Test data-->"+user.toString());
+
+        app.getHelperUser().openLoginRegistrationForm();
+        app.getHelperUser().fillLoginRegistrationform(user);
+        app.getHelperUser().submitLogin();
+        app.getHelperUser().pause(3000);
 
         Assert.assertTrue(app.getHelperUser().isLogged());
 

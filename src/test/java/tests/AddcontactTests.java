@@ -1,5 +1,6 @@
 package tests;
 
+import manager.DataProviderContact;
 import models.Contacts;
 import models.User;
 import org.openqa.selenium.By;
@@ -14,18 +15,33 @@ public class AddcontactTests extends TestBase{
             app.getHelperUser().login(new User().setEmail("sonicboom@gmail.com").setPassword("Snow123456!"));
 
     }
-    @Test
-    public void addNewContactSuccessFull(){
+    @Test(dataProvider = "contactSuccess",dataProviderClass = DataProviderContact.class)
+    public void addNewContactSuccessFull(Contacts contact){
         int i = (int)((System.currentTimeMillis()/1000)%3600);
-        Contacts contact=Contacts.builder()
-                .name("Kobby")
-                .lastname("Yassy")
-                .phoneNumber("17845454"+i)
-                .email("asdas"+i+"@gmail.com")
-                .address("akko")
-                .description("sdfsdf")
-                .build();
+//        Contacts contact=Contacts.builder()
+//                .name("Kobby")
+//                .lastname("Yassy")
+//                .phoneNumber("17845454"+i)
+//                .email("asdas"+i+"@gmail.com")
+//                .address("akko")
+//                .description("sdfsdf")
+//                .build();
 
+
+        app.getHelperContact().submitADDButton();
+        app.getHelperContact().fillContactsForm(contact);
+        app.getHelperContact().getScreen("src/test/screenshots/screen"+i+".png");
+        app.getHelperContact().submitSaveButton();
+        app.getHelperContact().pause(1000);
+
+
+        Assert.assertTrue(app.getHelperContact().isContactAddedByName(contact.getName()));
+        Assert.assertTrue(app.getHelperContact().isContactAddedByPhoneNumber(contact.getPhoneNumber()));
+
+    }
+    @Test(dataProvider = "contactCSV",dataProviderClass = DataProviderContact.class)
+    public void addNewContactSuccessFullCSV(Contacts contact){
+        int i = (int)((System.currentTimeMillis()/1000)%3600);
 
         app.getHelperContact().submitADDButton();
         app.getHelperContact().fillContactsForm(contact);
@@ -100,20 +116,18 @@ public class AddcontactTests extends TestBase{
         Assert.assertTrue(app.getHelperContact().isAddPageStillDisplayed());
 
     }
-    @Test
-    public void addNewContactWrongNumber(){
+    @Test(dataProvider = "contactWrongPhone",dataProviderClass = DataProviderContact.class)
+    public void addNewContactWrongNumber(Contacts contact){
         int i = (int)((System.currentTimeMillis()/1000)%3600);
 
-        Contacts contact=Contacts.builder()
-                .name("Kobby")
-                .lastname("Yassy")
-                .phoneNumber("1"+i)
-                .email("asdas"+i+"@gmail.com")
-                .address("akko")
-                .description("sdfsdf")
-                .build();
-
-
+//        Contacts contact=Contacts.builder()
+//                .name("Kobby")
+//                .lastname("Yassy")
+//                .phoneNumber("1"+i)
+//                .email("asdas"+i+"@gmail.com")
+//                .address("akko")
+//                .description("sdfsdf")
+//                .build();
 
         app.getHelperContact().submitADDButton();
         app.getHelperContact().fillContactsForm(contact);
