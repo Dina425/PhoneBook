@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 public class AddcontactTests extends TestBase{
-    @BeforeClass
+    @BeforeClass(alwaysRun = true)
     public void preCondition(){
         if(!app.getHelperUser().isLogged())
             app.getHelperUser().login(new User().setEmail("sonicboom@gmail.com").setPassword("Snow123456!"));
@@ -54,7 +54,7 @@ public class AddcontactTests extends TestBase{
         Assert.assertTrue(app.getHelperContact().isContactAddedByPhoneNumber(contact.getPhoneNumber()));
 
     }
-    @Test
+    @Test(groups = {"smoke"})
     public void addNewContactSuccessPartly(){
         int i = (int)((System.currentTimeMillis()/1000)%3600);
         Contacts contact=Contacts.builder()

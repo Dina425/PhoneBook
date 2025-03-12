@@ -1,0 +1,174 @@
+20:30:19.371 INFO  manager.ApplicationManager - All tests run in Chrome Browser
+20:30:19.391 INFO  manager.WDListener - url-->https://telranedu.web.app/home
+20:30:20.519 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+20:30:20.531 INFO  manager.TestNGListener - Start test: Sun Mar 09 20:30:20 IST 2025
+20:30:25.588 INFO  manager.WDListener - Before find element
+20:30:25.602 INFO  manager.WDListener - After find element
+20:30:25.644 INFO  manager.WDListener - Before find element
+20:30:25.661 INFO  manager.WDListener - After find element
+20:30:25.810 INFO  manager.WDListener - Before find element
+20:30:25.822 INFO  manager.WDListener - After find element
+20:30:25.897 INFO  manager.WDListener - Before find element
+20:30:25.909 INFO  manager.WDListener - After find element
+20:30:25.940 INFO  tests.TestBase - Name of method ---> addNewContactEmptyAddress
+20:30:25.940 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactEmptyAddress()[pri:0, instance:tests.AddcontactTests@58326051]
+20:30:26.946 INFO  manager.WDListener - Before find element
+20:30:26.976 INFO  manager.WDListener - After find element
+20:30:27.025 INFO  manager.WDListener - Before find element
+20:30:27.040 INFO  manager.WDListener - After find element
+20:30:27.121 INFO  manager.WDListener - Before find element
+20:30:27.131 INFO  manager.WDListener - After find element
+20:30:27.206 INFO  manager.WDListener - Before find element
+20:30:27.216 INFO  manager.WDListener - After find element
+20:30:27.293 INFO  manager.WDListener - Before find element
+20:30:27.303 INFO  manager.WDListener - After find element
+20:30:27.390 INFO  manager.WDListener - Before find element
+20:30:27.400 INFO  manager.WDListener - After find element
+20:30:27.461 INFO  manager.WDListener - Before find element
+20:30:27.471 INFO  manager.WDListener - After find element
+20:30:33.544 INFO  manager.WDListener - Before find element
+20:30:33.568 INFO  manager.WDListener - After find element
+20:30:33.644 INFO  manager.TestNGListener - Start test: null
+20:30:33.646 INFO  tests.TestBase - Name of method ---> addNewContactEmptyLastName
+20:30:33.646 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactEmptyLastName()[pri:0, instance:tests.AddcontactTests@58326051]
+20:30:34.651 INFO  manager.WDListener - Before find element
+20:30:34.666 INFO  manager.WDListener - After find element
+20:30:34.705 INFO  manager.WDListener - Before find element
+20:30:34.715 INFO  manager.WDListener - After find element
+20:30:34.816 INFO  manager.WDListener - Before find element
+20:30:34.826 INFO  manager.WDListener - After find element
+20:30:34.900 INFO  manager.WDListener - Before find element
+20:30:34.908 INFO  manager.WDListener - After find element
+20:30:34.992 INFO  manager.WDListener - Before find element
+20:30:34.999 INFO  manager.WDListener - After find element
+20:30:35.098 INFO  manager.WDListener - Before find element
+20:30:35.106 INFO  manager.WDListener - After find element
+20:30:35.187 INFO  manager.WDListener - Before find element
+20:30:35.195 INFO  manager.WDListener - After find element
+20:30:41.282 INFO  manager.WDListener - Before find element
+20:30:41.299 INFO  manager.WDListener - After find element
+20:30:41.349 INFO  manager.TestNGListener - Start test: null
+20:30:41.350 INFO  tests.TestBase - Name of method ---> addNewContactEmptyName
+20:30:41.350 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactEmptyName()[pri:0, instance:tests.AddcontactTests@58326051]
+20:30:42.353 INFO  manager.WDListener - Before find element
+20:30:42.369 INFO  manager.WDListener - After find element
+20:30:42.407 INFO  manager.WDListener - Before find element
+20:30:42.418 INFO  manager.WDListener - After find element
+20:30:42.487 INFO  manager.WDListener - Before find element
+20:30:42.493 INFO  manager.WDListener - After find element
+20:30:42.565 INFO  manager.WDListener - Before find element
+20:30:42.572 INFO  manager.WDListener - After find element
+20:30:42.654 INFO  manager.WDListener - Before find element
+20:30:42.661 INFO  manager.WDListener - After find element
+20:30:42.751 INFO  manager.WDListener - Before find element
+20:30:42.757 INFO  manager.WDListener - After find element
+20:30:42.833 INFO  manager.WDListener - Before find element
+20:30:42.839 INFO  manager.WDListener - After find element
+20:30:48.914 INFO  manager.WDListener - Before find element
+20:30:48.932 INFO  manager.WDListener - After find element
+20:30:48.984 INFO  manager.TestNGListener - Start test: null
+20:30:48.984 INFO  tests.TestBase - Name of method ---> addNewContactEmptyNumber
+20:30:48.985 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactEmptyNumber()[pri:0, instance:tests.AddcontactTests@58326051]
+20:30:49.990 INFO  manager.WDListener - Before find element
+20:30:50.008 INFO  manager.WDListener - After find element
+20:30:50.044 INFO  manager.WDListener - Before find element
+20:30:50.052 INFO  manager.WDListener - After find element
+20:30:50.125 INFO  manager.WDListener - Before find element
+20:30:50.133 INFO  manager.WDListener - After find element
+20:30:50.221 INFO  manager.WDListener - Before find element
+20:30:50.228 INFO  manager.WDListener - After find element
+20:30:50.293 INFO  manager.WDListener - Before find element
+20:30:50.300 INFO  manager.WDListener - After find element
+20:30:50.381 INFO  manager.WDListener - Before find element
+20:30:50.389 INFO  manager.WDListener - After find element
+20:30:50.464 INFO  manager.WDListener - Before find element
+20:30:50.470 INFO  manager.WDListener - After find element
+20:30:56.583 INFO  manager.WDListener - Before find element
+20:30:56.595 INFO  manager.WDListener - After find element
+20:30:56.627 INFO  manager.WDListener - Huston, we have a problem!!!
+20:30:56.627 INFO  manager.WDListener - !!!!!!!!!!!!
+20:30:56.627 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@76ff68c5
+20:30:56.627 INFO  manager.WDListener - Method name: alert
+20:30:56.627 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.45)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f387d430e5f55afe1a56b21b1b7c532, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.45, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56687}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56687/devtoo..., se:cdpVersion: 134.0.6998.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6f387d430e5f55afe1a56b21b1b7c532
+20:30:56.628 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1829.png
+20:31:01.161 INFO  manager.TestNGListener - Start test: null
+20:31:01.167 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFull
+20:31:01.167 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFull(models.Contacts)[pri:0, instance:tests.AddcontactTests@58326051]
+20:31:02.177 INFO  manager.WDListener - Before find element
+20:31:02.195 INFO  manager.WDListener - After find element
+20:31:02.237 INFO  manager.WDListener - Before find element
+20:31:02.256 INFO  manager.WDListener - After find element
+20:31:02.331 INFO  manager.WDListener - Before find element
+20:31:02.338 INFO  manager.WDListener - After find element
+20:31:02.410 INFO  manager.WDListener - Before find element
+20:31:02.417 INFO  manager.WDListener - After find element
+20:31:02.501 INFO  manager.WDListener - Before find element
+20:31:02.511 INFO  manager.WDListener - After find element
+20:31:02.610 INFO  manager.WDListener - Before find element
+20:31:02.617 INFO  manager.WDListener - After find element
+20:31:02.696 INFO  manager.WDListener - Before find element
+20:31:02.702 INFO  manager.WDListener - After find element
+20:31:08.905 INFO  manager.WDListener - Before find element
+20:31:08.921 INFO  manager.WDListener - After find element
+20:31:10.038 INFO  manager.TestNGListener - Start test: null
+20:31:10.038 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFull
+20:31:10.039 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFull(models.Contacts)[pri:0, instance:tests.AddcontactTests@58326051]
+20:31:11.044 INFO  manager.WDListener - Before find element
+20:31:11.058 INFO  manager.WDListener - After find element
+20:31:11.104 INFO  manager.WDListener - Before find element
+20:31:11.112 INFO  manager.WDListener - After find element
+20:31:11.191 INFO  manager.WDListener - Before find element
+20:31:11.200 INFO  manager.WDListener - After find element
+20:31:11.283 INFO  manager.WDListener - Before find element
+20:31:11.290 INFO  manager.WDListener - After find element
+20:31:11.370 INFO  manager.WDListener - Before find element
+20:31:11.378 INFO  manager.WDListener - After find element
+20:31:11.450 INFO  manager.WDListener - Before find element
+20:31:11.456 INFO  manager.WDListener - After find element
+20:31:11.524 INFO  manager.WDListener - Before find element
+20:31:11.530 INFO  manager.WDListener - After find element
+20:31:17.700 INFO  manager.WDListener - Before find element
+20:31:17.715 INFO  manager.WDListener - After find element
+20:31:18.832 INFO  manager.TestNGListener - Start test: null
+20:31:18.833 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFullCSV
+20:31:18.834 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFullCSV(models.Contacts)[pri:0, instance:tests.AddcontactTests@58326051]
+20:31:19.839 INFO  manager.WDListener - Before find element
+20:31:19.857 INFO  manager.WDListener - After find element
+20:31:19.897 INFO  manager.WDListener - Before find element
+20:31:19.907 INFO  manager.WDListener - After find element
+20:31:19.988 INFO  manager.WDListener - Before find element
+20:31:19.995 INFO  manager.WDListener - After find element
+20:31:20.068 INFO  manager.WDListener - Before find element
+20:31:20.076 INFO  manager.WDListener - After find element
+20:31:20.146 INFO  manager.WDListener - Before find element
+20:31:20.153 INFO  manager.WDListener - After find element
+20:31:20.221 INFO  manager.WDListener - Before find element
+20:31:20.228 INFO  manager.WDListener - After find element
+20:31:20.292 INFO  manager.WDListener - Before find element
+20:31:20.299 INFO  manager.WDListener - After find element
+20:31:26.484 INFO  manager.WDListener - Before find element
+20:31:26.494 INFO  manager.WDListener - After find element
+20:31:27.585 INFO  manager.TestNGListener - Start test: null
+20:31:27.585 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFullCSV
+20:31:27.586 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFullCSV(models.Contacts)[pri:0, instance:tests.AddcontactTests@58326051]
+20:31:28.591 INFO  manager.WDListener - Before find element
+20:31:28.607 INFO  manager.WDListener - After find element
+20:31:28.646 INFO  manager.WDListener - Before find element
+20:31:28.662 INFO  manager.WDListener - After find element
+20:31:28.727 INFO  manager.WDListener - Before find element
+20:31:28.733 INFO  manager.WDListener - After find element
+20:31:28.797 INFO  manager.WDListener - Before find element
+20:31:28.805 INFO  manager.WDListener - After find element
+20:31:28.874 INFO  manager.WDListener - Before find element
+20:31:28.880 INFO  manager.WDListener - After find element
+20:31:28.951 INFO  manager.WDListener - Before find element
+20:31:28.957 INFO  manager.WDListener - After find element
+20:31:29.019 INFO  manager.WDListener - Before find element
+20:31:29.025 INFO  manager.WDListener - After find element

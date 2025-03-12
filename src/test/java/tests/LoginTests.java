@@ -13,7 +13,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class LoginTests extends TestBase{
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void preCondition(){
         // if SignOut present---logout
         if(app.getHelperUser().isLogged())
@@ -70,7 +70,7 @@ public class LoginTests extends TestBase{
         Assert.assertTrue(app.getHelperUser().isLogged());
 
     }
-    @Test
+    @Test(groups = {"smoke"})
     public void loginWrongEmail(){
         logger.info("Test data--> email:sonicboom@gmail.com & password:Snow123456!");
         app.getHelperUser().openLoginRegistrationForm();
