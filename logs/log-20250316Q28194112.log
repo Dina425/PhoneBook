@@ -1,0 +1,132 @@
+19:41:17.796 INFO  manager.ApplicationManager - All tests run in ChromeBroweser
+19:41:17.970 INFO  manager.WDListener - url-->https://telranedu.web.app/home
+19:41:19.138 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+19:41:19.149 INFO  manager.TestNGListener - Start test: Sun Mar 16 19:41:19 IST 2025
+19:41:24.181 INFO  tests.TestBase - Before method finished logout
+19:41:24.182 INFO  tests.TestBase - Name of method ---> loginWrongEmail
+19:41:24.182 INFO  manager.TestNGListener - Start test: LoginTests.loginWrongEmail()[pri:0, instance:tests.LoginTests@72437d8d]
+19:41:24.182 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+19:41:24.183 INFO  manager.WDListener - Before find element
+19:41:24.197 INFO  manager.WDListener - After find element
+19:41:24.245 INFO  manager.WDListener - Before find element
+19:41:24.260 INFO  manager.WDListener - After find element
+19:41:24.390 INFO  manager.WDListener - Before find element
+19:41:24.401 INFO  manager.WDListener - After find element
+19:41:24.470 INFO  manager.WDListener - Before find element
+19:41:24.481 INFO  manager.WDListener - After find element
+19:41:24.527 INFO  manager.WDListener - Huston, we have a problem!!!
+19:41:24.527 INFO  manager.WDListener - !!!!!!!!!!!!
+19:41:24.527 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@75de29c0
+19:41:24.527 INFO  manager.WDListener - Method name: alert
+19:41:24.528 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79ff34be6eda80079de5e3b6ae77cfe5, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57116}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57116/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79ff34be6eda80079de5e3b6ae77cfe5
+19:41:24.528 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1973.png
+19:41:25.040 INFO  manager.WDListener - Huston, we have a problem!!!
+19:41:25.040 INFO  manager.WDListener - !!!!!!!!!!!!
+19:41:25.040 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6342d610
+19:41:25.040 INFO  manager.WDListener - Method name: alert
+19:41:25.040 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79ff34be6eda80079de5e3b6ae77cfe5, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57116}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57116/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79ff34be6eda80079de5e3b6ae77cfe5
+19:41:25.041 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1417.png
+19:41:25.560 INFO  manager.WDListener - Huston, we have a problem!!!
+19:41:25.560 INFO  manager.WDListener - !!!!!!!!!!!!
+19:41:25.560 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@ec8f4b9
+19:41:25.560 INFO  manager.WDListener - Method name: alert
+19:41:25.560 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79ff34be6eda80079de5e3b6ae77cfe5, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57116}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57116/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79ff34be6eda80079de5e3b6ae77cfe5
+19:41:25.560 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1937.png
+19:41:30.100 INFO  tests.TestBase - Assert check is alert Wrong email or password
+19:41:30.102 INFO  manager.TestNGListener - Start test: null
+19:41:35.133 INFO  tests.TestBase - Name of method ---> registrationWrongPassword
+19:41:35.133 INFO  manager.TestNGListener - Start test: RegistrationTest.registrationWrongPassword()[pri:0, instance:tests.RegistrationTest@4ed5eb72]
+19:41:35.134 INFO  manager.WDListener - Before find element
+19:41:35.144 INFO  manager.WDListener - After find element
+19:41:35.177 INFO  manager.WDListener - Before find element
+19:41:35.187 INFO  manager.WDListener - After find element
+19:41:35.322 INFO  manager.WDListener - Before find element
+19:41:35.333 INFO  manager.WDListener - After find element
+19:41:35.430 INFO  manager.WDListener - Before find element
+19:41:35.455 INFO  manager.WDListener - After find element
+19:41:35.492 INFO  manager.WDListener - Huston, we have a problem!!!
+19:41:35.492 INFO  manager.WDListener - !!!!!!!!!!!!
+19:41:35.492 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1f53481b
+19:41:35.492 INFO  manager.WDListener - Method name: alert
+19:41:35.493 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79ff34be6eda80079de5e3b6ae77cfe5, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57116}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57116/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79ff34be6eda80079de5e3b6ae77cfe5
+19:41:35.493 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1154.png
+19:41:40.022 INFO  manager.TestNGListener - Start test: null
+19:41:45.043 INFO  manager.WDListener - Before find element
+19:41:45.053 INFO  manager.WDListener - After find element
+19:41:45.079 INFO  manager.WDListener - Before find element
+19:41:45.093 INFO  manager.WDListener - After find element
+19:41:45.183 INFO  manager.WDListener - Before find element
+19:41:45.192 INFO  manager.WDListener - After find element
+19:41:45.291 INFO  manager.WDListener - Before find element
+19:41:45.299 INFO  manager.WDListener - After find element
+19:41:45.323 INFO  tests.TestBase - Name of method ---> addNewContactSuccessPartly
+19:41:45.323 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessPartly()[pri:0, instance:tests.AddcontactTests@12f9af83]
+19:41:46.329 INFO  manager.WDListener - Before find element
+19:41:46.345 INFO  manager.WDListener - After find element
+19:41:46.377 INFO  manager.WDListener - Before find element
+19:41:46.387 INFO  manager.WDListener - After find element
+19:41:46.464 INFO  manager.WDListener - Before find element
+19:41:46.472 INFO  manager.WDListener - After find element
+19:41:46.540 INFO  manager.WDListener - Before find element
+19:41:46.549 INFO  manager.WDListener - After find element
+19:41:46.620 INFO  manager.WDListener - Before find element
+19:41:46.629 INFO  manager.WDListener - After find element
+19:41:46.701 INFO  manager.WDListener - Before find element
+19:41:46.712 INFO  manager.WDListener - After find element
+19:41:46.778 INFO  manager.WDListener - Before find element
+19:41:46.786 INFO  manager.WDListener - After find element
+19:41:52.845 INFO  manager.WDListener - Before find element
+19:41:52.861 INFO  manager.WDListener - After find element
+19:41:53.952 INFO  manager.TestNGListener - Start test: null
+19:41:53.972 INFO  tests.TestBase - Name of method ---> removeAllContacts
+19:41:53.972 INFO  manager.TestNGListener - Start test: RemoveContactTests.removeAllContacts()[pri:0, instance:tests.RemoveContactTests@19b93fa8]
+19:41:53.994 INFO  manager.HelperBase - Number of Contacts before remove---> 3
+19:41:53.994 INFO  manager.WDListener - Before find element
+19:41:54.003 INFO  manager.WDListener - After find element
+19:41:54.030 INFO  manager.WDListener - Before find element
+19:41:54.038 INFO  manager.WDListener - After find element
+19:41:55.084 INFO  manager.HelperBase - Number of Contacts after remove---> 3
+19:41:55.113 INFO  manager.HelperBase - Number of Contacts before remove---> 2
+19:41:55.113 INFO  manager.WDListener - Before find element
+19:41:55.120 INFO  manager.WDListener - After find element
+19:41:55.144 INFO  manager.WDListener - Before find element
+19:41:55.151 INFO  manager.WDListener - After find element
+19:41:56.188 INFO  manager.HelperBase - Number of Contacts after remove---> 2
+19:41:56.204 INFO  manager.HelperBase - Number of Contacts before remove---> 1
+19:41:56.204 INFO  manager.WDListener - Before find element
+19:41:56.211 INFO  manager.WDListener - After find element
+19:41:56.238 INFO  manager.WDListener - Before find element
+19:41:56.246 INFO  manager.WDListener - After find element
+19:42:02.313 INFO  manager.HelperBase - Number of Contacts after remove---> 1
+19:42:07.363 INFO  manager.WDListener - Before find element
+19:42:07.375 INFO  manager.WDListener - After find element
+19:42:07.383 INFO  manager.TestNGListener - Start test: null
+19:42:07.384 INFO  manager.TestNGListener - End test: Nopackage

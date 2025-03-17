@@ -1,0 +1,780 @@
+18:27:48.788 INFO  manager.ApplicationManager - All tests run in ChromeBroweser
+18:27:48.994 INFO  manager.WDListener - url-->https://telranedu.web.app/home
+18:27:49.830 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+18:27:49.838 INFO  manager.TestNGListener - Start test: Sun Mar 16 18:27:49 IST 2025
+18:27:54.881 INFO  manager.WDListener - Before find element
+18:27:54.902 INFO  manager.WDListener - After find element
+18:27:54.947 INFO  manager.WDListener - Before find element
+18:27:54.969 INFO  manager.WDListener - After find element
+18:27:55.141 INFO  manager.WDListener - Before find element
+18:27:55.160 INFO  manager.WDListener - After find element
+18:27:55.242 INFO  manager.WDListener - Before find element
+18:27:55.255 INFO  manager.WDListener - After find element
+18:27:55.293 INFO  tests.TestBase - Name of method ---> addNewContactEmptyAddress
+18:27:55.294 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactEmptyAddress()[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:27:56.300 INFO  manager.WDListener - Before find element
+18:27:56.736 INFO  manager.WDListener - After find element
+18:27:56.775 INFO  manager.WDListener - Before find element
+18:27:56.787 INFO  manager.WDListener - After find element
+18:27:56.862 INFO  manager.WDListener - Before find element
+18:27:56.872 INFO  manager.WDListener - After find element
+18:27:56.945 INFO  manager.WDListener - Before find element
+18:27:56.956 INFO  manager.WDListener - After find element
+18:27:57.030 INFO  manager.WDListener - Before find element
+18:27:57.040 INFO  manager.WDListener - After find element
+18:27:57.114 INFO  manager.WDListener - Before find element
+18:27:57.125 INFO  manager.WDListener - After find element
+18:27:57.185 INFO  manager.WDListener - Before find element
+18:27:57.195 INFO  manager.WDListener - After find element
+18:28:03.271 INFO  manager.WDListener - Before find element
+18:28:03.288 INFO  manager.WDListener - After find element
+18:28:03.340 INFO  manager.TestNGListener - Start test: null
+18:28:03.341 INFO  tests.TestBase - Name of method ---> addNewContactEmptyLastName
+18:28:03.341 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactEmptyLastName()[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:28:04.347 INFO  manager.WDListener - Before find element
+18:28:04.364 INFO  manager.WDListener - After find element
+18:28:04.392 INFO  manager.WDListener - Before find element
+18:28:04.402 INFO  manager.WDListener - After find element
+18:28:04.482 INFO  manager.WDListener - Before find element
+18:28:04.490 INFO  manager.WDListener - After find element
+18:28:04.554 INFO  manager.WDListener - Before find element
+18:28:04.563 INFO  manager.WDListener - After find element
+18:28:04.639 INFO  manager.WDListener - Before find element
+18:28:04.646 INFO  manager.WDListener - After find element
+18:28:04.721 INFO  manager.WDListener - Before find element
+18:28:04.729 INFO  manager.WDListener - After find element
+18:28:04.804 INFO  manager.WDListener - Before find element
+18:28:04.814 INFO  manager.WDListener - After find element
+18:28:10.913 INFO  manager.WDListener - Before find element
+18:28:10.928 INFO  manager.WDListener - After find element
+18:28:10.968 INFO  manager.TestNGListener - Start test: null
+18:28:10.968 INFO  tests.TestBase - Name of method ---> addNewContactEmptyName
+18:28:10.968 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactEmptyName()[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:28:11.974 INFO  manager.WDListener - Before find element
+18:28:11.989 INFO  manager.WDListener - After find element
+18:28:12.016 INFO  manager.WDListener - Before find element
+18:28:12.032 INFO  manager.WDListener - After find element
+18:28:12.099 INFO  manager.WDListener - Before find element
+18:28:12.106 INFO  manager.WDListener - After find element
+18:28:12.176 INFO  manager.WDListener - Before find element
+18:28:12.184 INFO  manager.WDListener - After find element
+18:28:12.262 INFO  manager.WDListener - Before find element
+18:28:12.270 INFO  manager.WDListener - After find element
+18:28:12.348 INFO  manager.WDListener - Before find element
+18:28:12.355 INFO  manager.WDListener - After find element
+18:28:12.430 INFO  manager.WDListener - Before find element
+18:28:12.437 INFO  manager.WDListener - After find element
+18:28:18.515 INFO  manager.WDListener - Before find element
+18:28:18.527 INFO  manager.WDListener - After find element
+18:28:18.566 INFO  manager.TestNGListener - Start test: null
+18:28:18.567 INFO  tests.TestBase - Name of method ---> addNewContactEmptyNumber
+18:28:18.567 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactEmptyNumber()[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:28:19.572 INFO  manager.WDListener - Before find element
+18:28:19.586 INFO  manager.WDListener - After find element
+18:28:19.611 INFO  manager.WDListener - Before find element
+18:28:19.619 INFO  manager.WDListener - After find element
+18:28:19.693 INFO  manager.WDListener - Before find element
+18:28:19.700 INFO  manager.WDListener - After find element
+18:28:19.773 INFO  manager.WDListener - Before find element
+18:28:19.781 INFO  manager.WDListener - After find element
+18:28:19.844 INFO  manager.WDListener - Before find element
+18:28:19.850 INFO  manager.WDListener - After find element
+18:28:19.929 INFO  manager.WDListener - Before find element
+18:28:19.936 INFO  manager.WDListener - After find element
+18:28:20.011 INFO  manager.WDListener - Before find element
+18:28:20.018 INFO  manager.WDListener - After find element
+18:28:26.097 INFO  manager.WDListener - Before find element
+18:28:26.111 INFO  manager.WDListener - After find element
+18:28:26.158 INFO  manager.WDListener - Huston, we have a problem!!!
+18:28:26.159 INFO  manager.WDListener - !!!!!!!!!!!!
+18:28:26.159 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@6cbb175
+18:28:26.159 INFO  manager.WDListener - Method name: alert
+18:28:26.160 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:28:26.161 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1308.png
+18:28:30.681 INFO  manager.TestNGListener - Start test: null
+18:28:30.685 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFull
+18:28:30.685 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFull(models.Contacts)[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:28:31.688 INFO  manager.WDListener - Before find element
+18:28:31.701 INFO  manager.WDListener - After find element
+18:28:31.736 INFO  manager.WDListener - Before find element
+18:28:31.745 INFO  manager.WDListener - After find element
+18:28:31.824 INFO  manager.WDListener - Before find element
+18:28:31.830 INFO  manager.WDListener - After find element
+18:28:31.904 INFO  manager.WDListener - Before find element
+18:28:31.910 INFO  manager.WDListener - After find element
+18:28:31.978 INFO  manager.WDListener - Before find element
+18:28:31.985 INFO  manager.WDListener - After find element
+18:28:32.060 INFO  manager.WDListener - Before find element
+18:28:32.067 INFO  manager.WDListener - After find element
+18:28:32.141 INFO  manager.WDListener - Before find element
+18:28:32.148 INFO  manager.WDListener - After find element
+18:28:38.346 INFO  manager.WDListener - Before find element
+18:28:38.358 INFO  manager.WDListener - After find element
+18:28:39.427 INFO  manager.TestNGListener - Start test: null
+18:28:39.428 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFull
+18:28:39.428 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFull(models.Contacts)[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:28:40.433 INFO  manager.WDListener - Before find element
+18:28:40.441 INFO  manager.WDListener - After find element
+18:28:40.472 INFO  manager.WDListener - Before find element
+18:28:40.480 INFO  manager.WDListener - After find element
+18:28:40.547 INFO  manager.WDListener - Before find element
+18:28:40.553 INFO  manager.WDListener - After find element
+18:28:40.619 INFO  manager.WDListener - Before find element
+18:28:40.626 INFO  manager.WDListener - After find element
+18:28:40.702 INFO  manager.WDListener - Before find element
+18:28:40.710 INFO  manager.WDListener - After find element
+18:28:40.799 INFO  manager.WDListener - Before find element
+18:28:40.807 INFO  manager.WDListener - After find element
+18:28:40.889 INFO  manager.WDListener - Before find element
+18:28:40.897 INFO  manager.WDListener - After find element
+18:28:47.085 INFO  manager.WDListener - Before find element
+18:28:47.098 INFO  manager.WDListener - After find element
+18:28:48.172 INFO  manager.TestNGListener - Start test: null
+18:28:48.174 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFullCSV
+18:28:48.174 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFullCSV(models.Contacts)[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:28:49.179 INFO  manager.WDListener - Before find element
+18:28:49.192 INFO  manager.WDListener - After find element
+18:28:49.224 INFO  manager.WDListener - Before find element
+18:28:49.232 INFO  manager.WDListener - After find element
+18:28:49.308 INFO  manager.WDListener - Before find element
+18:28:49.315 INFO  manager.WDListener - After find element
+18:28:49.383 INFO  manager.WDListener - Before find element
+18:28:49.389 INFO  manager.WDListener - After find element
+18:28:49.456 INFO  manager.WDListener - Before find element
+18:28:49.463 INFO  manager.WDListener - After find element
+18:28:49.531 INFO  manager.WDListener - Before find element
+18:28:49.538 INFO  manager.WDListener - After find element
+18:28:49.604 INFO  manager.WDListener - Before find element
+18:28:49.610 INFO  manager.WDListener - After find element
+18:28:55.804 INFO  manager.WDListener - Before find element
+18:28:55.825 INFO  manager.WDListener - After find element
+18:28:56.915 INFO  manager.TestNGListener - Start test: null
+18:28:56.917 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFullCSV
+18:28:56.917 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFullCSV(models.Contacts)[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:28:57.922 INFO  manager.WDListener - Before find element
+18:28:57.937 INFO  manager.WDListener - After find element
+18:28:57.965 INFO  manager.WDListener - Before find element
+18:28:57.974 INFO  manager.WDListener - After find element
+18:28:58.045 INFO  manager.WDListener - Before find element
+18:28:58.052 INFO  manager.WDListener - After find element
+18:28:58.122 INFO  manager.WDListener - Before find element
+18:28:58.131 INFO  manager.WDListener - After find element
+18:28:58.205 INFO  manager.WDListener - Before find element
+18:28:58.212 INFO  manager.WDListener - After find element
+18:28:58.283 INFO  manager.WDListener - Before find element
+18:28:58.289 INFO  manager.WDListener - After find element
+18:28:58.357 INFO  manager.WDListener - Before find element
+18:28:58.364 INFO  manager.WDListener - After find element
+18:29:04.562 INFO  manager.WDListener - Before find element
+18:29:04.575 INFO  manager.WDListener - After find element
+18:29:05.679 INFO  manager.TestNGListener - Start test: null
+18:29:05.679 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFullCSV
+18:29:05.679 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFullCSV(models.Contacts)[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:29:06.685 INFO  manager.WDListener - Before find element
+18:29:06.697 INFO  manager.WDListener - After find element
+18:29:06.728 INFO  manager.WDListener - Before find element
+18:29:06.740 INFO  manager.WDListener - After find element
+18:29:06.818 INFO  manager.WDListener - Before find element
+18:29:06.825 INFO  manager.WDListener - After find element
+18:29:06.891 INFO  manager.WDListener - Before find element
+18:29:06.899 INFO  manager.WDListener - After find element
+18:29:06.973 INFO  manager.WDListener - Before find element
+18:29:06.980 INFO  manager.WDListener - After find element
+18:29:07.054 INFO  manager.WDListener - Before find element
+18:29:07.061 INFO  manager.WDListener - After find element
+18:29:07.132 INFO  manager.WDListener - Before find element
+18:29:07.140 INFO  manager.WDListener - After find element
+18:29:13.306 INFO  manager.WDListener - Before find element
+18:29:13.320 INFO  manager.WDListener - After find element
+18:29:14.438 INFO  manager.TestNGListener - Start test: null
+18:29:14.439 INFO  tests.TestBase - Name of method ---> addNewContactSuccessPartly
+18:29:14.439 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessPartly()[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:29:15.444 INFO  manager.WDListener - Before find element
+18:29:15.459 INFO  manager.WDListener - After find element
+18:29:15.497 INFO  manager.WDListener - Before find element
+18:29:15.506 INFO  manager.WDListener - After find element
+18:29:15.618 INFO  manager.WDListener - Before find element
+18:29:15.626 INFO  manager.WDListener - After find element
+18:29:15.703 INFO  manager.WDListener - Before find element
+18:29:15.711 INFO  manager.WDListener - After find element
+18:29:15.783 INFO  manager.WDListener - Before find element
+18:29:15.791 INFO  manager.WDListener - After find element
+18:29:15.880 INFO  manager.WDListener - Before find element
+18:29:15.888 INFO  manager.WDListener - After find element
+18:29:15.975 INFO  manager.WDListener - Before find element
+18:29:15.983 INFO  manager.WDListener - After find element
+18:29:22.052 INFO  manager.WDListener - Before find element
+18:29:22.066 INFO  manager.WDListener - After find element
+18:29:23.182 INFO  manager.TestNGListener - Start test: null
+18:29:23.183 INFO  tests.TestBase - Name of method ---> addNewContactWrongEmail
+18:29:23.183 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactWrongEmail()[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:29:24.189 INFO  manager.WDListener - Before find element
+18:29:24.201 INFO  manager.WDListener - After find element
+18:29:24.232 INFO  manager.WDListener - Before find element
+18:29:24.240 INFO  manager.WDListener - After find element
+18:29:24.311 INFO  manager.WDListener - Before find element
+18:29:24.317 INFO  manager.WDListener - After find element
+18:29:24.381 INFO  manager.WDListener - Before find element
+18:29:24.387 INFO  manager.WDListener - After find element
+18:29:24.459 INFO  manager.WDListener - Before find element
+18:29:24.465 INFO  manager.WDListener - After find element
+18:29:24.536 INFO  manager.WDListener - Before find element
+18:29:24.543 INFO  manager.WDListener - After find element
+18:29:24.620 INFO  manager.WDListener - Before find element
+18:29:24.627 INFO  manager.WDListener - After find element
+18:29:30.702 INFO  manager.WDListener - Before find element
+18:29:30.714 INFO  manager.WDListener - After find element
+18:29:30.741 INFO  manager.WDListener - Huston, we have a problem!!!
+18:29:30.742 INFO  manager.WDListener - !!!!!!!!!!!!
+18:29:30.742 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3cb04dd
+18:29:30.742 INFO  manager.WDListener - Method name: alert
+18:29:30.742 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:29:30.742 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1269.png
+18:29:35.263 INFO  manager.TestNGListener - Start test: null
+18:29:35.264 INFO  tests.TestBase - Name of method ---> addNewContactWrongNumber
+18:29:35.264 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactWrongNumber(models.Contacts)[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:29:36.269 INFO  manager.WDListener - Before find element
+18:29:36.282 INFO  manager.WDListener - After find element
+18:29:36.314 INFO  manager.WDListener - Before find element
+18:29:36.323 INFO  manager.WDListener - After find element
+18:29:36.408 INFO  manager.WDListener - Before find element
+18:29:36.415 INFO  manager.WDListener - After find element
+18:29:36.499 INFO  manager.WDListener - Before find element
+18:29:36.506 INFO  manager.WDListener - After find element
+18:29:36.578 INFO  manager.WDListener - Before find element
+18:29:36.584 INFO  manager.WDListener - After find element
+18:29:36.659 INFO  manager.WDListener - Before find element
+18:29:36.665 INFO  manager.WDListener - After find element
+18:29:36.739 INFO  manager.WDListener - Before find element
+18:29:36.746 INFO  manager.WDListener - After find element
+18:29:42.811 INFO  manager.WDListener - Before find element
+18:29:42.826 INFO  manager.WDListener - After find element
+18:29:42.858 INFO  manager.WDListener - Huston, we have a problem!!!
+18:29:42.858 INFO  manager.WDListener - !!!!!!!!!!!!
+18:29:42.858 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@4fd3b20a
+18:29:42.858 INFO  manager.WDListener - Method name: alert
+18:29:42.858 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:29:42.859 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1589.png
+18:29:47.384 INFO  manager.TestNGListener - Start test: null
+18:29:47.385 INFO  tests.TestBase - Name of method ---> addNewContactWrongNumber
+18:29:47.386 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactWrongNumber(models.Contacts)[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:29:48.391 INFO  manager.WDListener - Before find element
+18:29:48.403 INFO  manager.WDListener - After find element
+18:29:48.431 INFO  manager.WDListener - Before find element
+18:29:48.439 INFO  manager.WDListener - After find element
+18:29:48.527 INFO  manager.WDListener - Before find element
+18:29:48.533 INFO  manager.WDListener - After find element
+18:29:48.617 INFO  manager.WDListener - Before find element
+18:29:48.623 INFO  manager.WDListener - After find element
+18:29:48.696 INFO  manager.WDListener - Before find element
+18:29:48.702 INFO  manager.WDListener - After find element
+18:29:48.780 INFO  manager.WDListener - Before find element
+18:29:48.785 INFO  manager.WDListener - After find element
+18:29:48.862 INFO  manager.WDListener - Before find element
+18:29:48.868 INFO  manager.WDListener - After find element
+18:29:54.927 INFO  manager.WDListener - Before find element
+18:29:54.939 INFO  manager.WDListener - After find element
+18:29:54.967 INFO  manager.WDListener - Huston, we have a problem!!!
+18:29:54.967 INFO  manager.WDListener - !!!!!!!!!!!!
+18:29:54.967 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@361f26b4
+18:29:54.967 INFO  manager.WDListener - Method name: alert
+18:29:54.967 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:29:54.967 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1254.png
+18:29:59.491 INFO  manager.TestNGListener - Start test: null
+18:29:59.492 INFO  tests.TestBase - Name of method ---> addNewContactWrongNumber
+18:29:59.493 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactWrongNumber(models.Contacts)[pri:0, instance:tests.AddcontactTests@f0e995e]
+18:30:00.498 INFO  manager.WDListener - Before find element
+18:30:00.510 INFO  manager.WDListener - After find element
+18:30:00.539 INFO  manager.WDListener - Before find element
+18:30:00.556 INFO  manager.WDListener - After find element
+18:30:00.635 INFO  manager.WDListener - Before find element
+18:30:00.641 INFO  manager.WDListener - After find element
+18:30:00.713 INFO  manager.WDListener - Before find element
+18:30:00.720 INFO  manager.WDListener - After find element
+18:30:00.793 INFO  manager.WDListener - Before find element
+18:30:00.800 INFO  manager.WDListener - After find element
+18:30:00.970 INFO  manager.WDListener - Before find element
+18:30:00.984 INFO  manager.WDListener - After find element
+18:30:01.061 INFO  manager.WDListener - Before find element
+18:30:01.068 INFO  manager.WDListener - After find element
+18:30:07.122 INFO  manager.WDListener - Before find element
+18:30:07.133 INFO  manager.WDListener - After find element
+18:30:07.160 INFO  manager.WDListener - Huston, we have a problem!!!
+18:30:07.160 INFO  manager.WDListener - !!!!!!!!!!!!
+18:30:07.160 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@1c8e2850
+18:30:07.160 INFO  manager.WDListener - Method name: alert
+18:30:07.160 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:30:07.160 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1548.png
+18:30:11.680 INFO  manager.TestNGListener - Start test: null
+18:30:11.682 INFO  tests.TestBase - Name of method ---> loginSuccess
+18:30:11.695 INFO  manager.WDListener - Before find element
+18:30:11.704 INFO  manager.WDListener - After find element
+18:30:11.739 INFO  tests.TestBase - Before method finished logout
+18:30:11.739 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:11.739 INFO  manager.WDListener - Before find element
+18:30:11.750 INFO  manager.WDListener - After find element
+18:30:11.775 INFO  manager.WDListener - Before find element
+18:30:11.784 INFO  manager.WDListener - After find element
+18:30:11.899 INFO  manager.WDListener - Before find element
+18:30:11.907 INFO  manager.WDListener - After find element
+18:30:11.985 INFO  tests.TestBase - Test data-->sonicboom@gmail.comPassword--->Snow123456!
+18:30:11.986 INFO  manager.WDListener - Before find element
+18:30:11.994 INFO  manager.WDListener - After find element
+18:30:12.309 INFO  tests.TestBase - End
+18:30:12.309 INFO  manager.TestNGListener - Start test: null
+18:30:12.310 INFO  tests.TestBase - Name of method ---> loginSuccess
+18:30:12.322 INFO  manager.WDListener - Before find element
+18:30:12.336 INFO  manager.WDListener - After find element
+18:30:12.370 INFO  tests.TestBase - Before method finished logout
+18:30:12.370 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:12.370 INFO  manager.WDListener - Before find element
+18:30:12.377 INFO  manager.WDListener - After find element
+18:30:12.401 INFO  manager.WDListener - Before find element
+18:30:12.407 INFO  manager.WDListener - After find element
+18:30:12.502 INFO  manager.WDListener - Before find element
+18:30:12.509 INFO  manager.WDListener - After find element
+18:30:12.597 INFO  tests.TestBase - Test data-->sonicboom@gmail.comPassword--->Snow123456!
+18:30:12.597 INFO  manager.WDListener - Before find element
+18:30:12.607 INFO  manager.WDListener - After find element
+18:30:12.912 INFO  tests.TestBase - End
+18:30:12.913 INFO  manager.TestNGListener - Start test: null
+18:30:12.913 INFO  tests.TestBase - Name of method ---> loginSuccess
+18:30:12.923 INFO  manager.WDListener - Before find element
+18:30:12.931 INFO  manager.WDListener - After find element
+18:30:12.958 INFO  tests.TestBase - Before method finished logout
+18:30:12.959 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccess(java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:12.959 INFO  manager.WDListener - Before find element
+18:30:12.971 INFO  manager.WDListener - After find element
+18:30:12.996 INFO  manager.WDListener - Before find element
+18:30:13.002 INFO  manager.WDListener - After find element
+18:30:13.086 INFO  manager.WDListener - Before find element
+18:30:13.093 INFO  manager.WDListener - After find element
+18:30:13.168 INFO  tests.TestBase - Test data-->sonicboom@gmail.comPassword--->Snow123456!
+18:30:13.169 INFO  manager.WDListener - Before find element
+18:30:13.179 INFO  manager.WDListener - After find element
+18:30:13.488 INFO  tests.TestBase - End
+18:30:13.489 INFO  manager.TestNGListener - Start test: null
+18:30:13.489 INFO  tests.TestBase - Name of method ---> loginSuccessModelDataProvider
+18:30:13.496 INFO  manager.WDListener - Before find element
+18:30:13.503 INFO  manager.WDListener - After find element
+18:30:13.535 INFO  tests.TestBase - Before method finished logout
+18:30:13.536 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccessModelDataProvider(models.User)[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:13.536 INFO  tests.TestBase - Test data-->User{, email='sonicboom@gmail.com', password='Snow123456!'}
+18:30:13.536 INFO  manager.WDListener - Before find element
+18:30:13.544 INFO  manager.WDListener - After find element
+18:30:13.569 INFO  manager.WDListener - Before find element
+18:30:13.575 INFO  manager.WDListener - After find element
+18:30:13.662 INFO  manager.WDListener - Before find element
+18:30:13.670 INFO  manager.WDListener - After find element
+18:30:13.747 INFO  manager.WDListener - Before find element
+18:30:13.756 INFO  manager.WDListener - After find element
+18:30:14.065 INFO  manager.TestNGListener - Start test: null
+18:30:14.066 INFO  tests.TestBase - Name of method ---> loginSuccessModelDataProvider
+18:30:14.073 INFO  manager.WDListener - Before find element
+18:30:14.080 INFO  manager.WDListener - After find element
+18:30:14.113 INFO  tests.TestBase - Before method finished logout
+18:30:14.114 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccessModelDataProvider(models.User)[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:14.114 INFO  tests.TestBase - Test data-->User{, email='sonicboom@gmail.com', password='Snow123456!'}
+18:30:14.114 INFO  manager.WDListener - Before find element
+18:30:14.128 INFO  manager.WDListener - After find element
+18:30:14.149 INFO  manager.WDListener - Before find element
+18:30:14.155 INFO  manager.WDListener - After find element
+18:30:14.254 INFO  manager.WDListener - Before find element
+18:30:14.261 INFO  manager.WDListener - After find element
+18:30:14.363 INFO  manager.WDListener - Before find element
+18:30:14.372 INFO  manager.WDListener - After find element
+18:30:14.688 INFO  manager.TestNGListener - Start test: null
+18:30:14.688 INFO  tests.TestBase - Name of method ---> loginSuccessModelDataProvider
+18:30:14.697 INFO  manager.WDListener - Before find element
+18:30:14.705 INFO  manager.WDListener - After find element
+18:30:14.735 INFO  tests.TestBase - Before method finished logout
+18:30:14.735 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccessModelDataProvider(models.User)[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:14.735 INFO  tests.TestBase - Test data-->User{, email='sonicboom@gmail.com', password='Snow123456!'}
+18:30:14.735 INFO  manager.WDListener - Before find element
+18:30:14.743 INFO  manager.WDListener - After find element
+18:30:14.769 INFO  manager.WDListener - Before find element
+18:30:14.776 INFO  manager.WDListener - After find element
+18:30:14.870 INFO  manager.WDListener - Before find element
+18:30:14.879 INFO  manager.WDListener - After find element
+18:30:14.967 INFO  manager.WDListener - Before find element
+18:30:14.977 INFO  manager.WDListener - After find element
+18:30:15.293 INFO  manager.TestNGListener - Start test: null
+18:30:15.295 INFO  tests.TestBase - Name of method ---> loginSuccessModelDataproviderCSV
+18:30:15.303 INFO  manager.WDListener - Before find element
+18:30:15.310 INFO  manager.WDListener - After find element
+18:30:15.345 INFO  tests.TestBase - Before method finished logout
+18:30:15.345 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccessModelDataproviderCSV(models.User)[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:18.347 INFO  tests.TestBase - Test data-->User{, email='sonicboom@gmail.com', password='Snow123456!'}
+18:30:18.347 INFO  manager.WDListener - Before find element
+18:30:18.355 INFO  manager.WDListener - After find element
+18:30:18.382 INFO  manager.WDListener - Before find element
+18:30:18.389 INFO  manager.WDListener - After find element
+18:30:18.480 INFO  manager.WDListener - Before find element
+18:30:18.487 INFO  manager.WDListener - After find element
+18:30:18.582 INFO  manager.WDListener - Before find element
+18:30:18.589 INFO  manager.WDListener - After find element
+18:30:21.624 INFO  manager.TestNGListener - Start test: null
+18:30:21.625 INFO  tests.TestBase - Name of method ---> loginSuccessModelDataproviderCSV
+18:30:21.632 INFO  manager.WDListener - Before find element
+18:30:21.639 INFO  manager.WDListener - After find element
+18:30:21.668 INFO  tests.TestBase - Before method finished logout
+18:30:21.669 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccessModelDataproviderCSV(models.User)[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:24.670 INFO  tests.TestBase - Test data-->User{, email='sonicboom@gmail.com', password='Snow123456!'}
+18:30:24.671 INFO  manager.WDListener - Before find element
+18:30:24.678 INFO  manager.WDListener - After find element
+18:30:24.703 INFO  manager.WDListener - Before find element
+18:30:24.710 INFO  manager.WDListener - After find element
+18:30:24.812 INFO  manager.WDListener - Before find element
+18:30:24.818 INFO  manager.WDListener - After find element
+18:30:24.901 INFO  manager.WDListener - Before find element
+18:30:24.910 INFO  manager.WDListener - After find element
+18:30:27.948 INFO  manager.TestNGListener - Start test: null
+18:30:27.948 INFO  tests.TestBase - Name of method ---> loginSuccessModelDataproviderCSV
+18:30:27.956 INFO  manager.WDListener - Before find element
+18:30:27.963 INFO  manager.WDListener - After find element
+18:30:27.999 INFO  tests.TestBase - Before method finished logout
+18:30:27.999 INFO  manager.TestNGListener - Start test: LoginTests.loginSuccessModelDataproviderCSV(models.User)[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:31.002 INFO  tests.TestBase - Test data-->User{, email='sonicboom@gmail.com', password='Snow123456!'}
+18:30:31.003 INFO  manager.WDListener - Before find element
+18:30:31.010 INFO  manager.WDListener - After find element
+18:30:31.037 INFO  manager.WDListener - Before find element
+18:30:31.045 INFO  manager.WDListener - After find element
+18:30:31.133 INFO  manager.WDListener - Before find element
+18:30:31.140 INFO  manager.WDListener - After find element
+18:30:31.228 INFO  manager.WDListener - Before find element
+18:30:31.237 INFO  manager.WDListener - After find element
+18:30:34.270 INFO  manager.TestNGListener - Start test: null
+18:30:34.270 INFO  tests.TestBase - Name of method ---> loginUnregisteredUser
+18:30:34.278 INFO  manager.WDListener - Before find element
+18:30:34.285 INFO  manager.WDListener - After find element
+18:30:34.316 INFO  tests.TestBase - Before method finished logout
+18:30:34.317 INFO  manager.TestNGListener - Start test: LoginTests.loginUnregisteredUser()[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:34.317 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+18:30:34.317 INFO  manager.WDListener - Before find element
+18:30:34.327 INFO  manager.WDListener - After find element
+18:30:34.356 INFO  manager.WDListener - Before find element
+18:30:34.364 INFO  manager.WDListener - After find element
+18:30:34.493 INFO  manager.WDListener - Before find element
+18:30:34.503 INFO  manager.WDListener - After find element
+18:30:34.602 INFO  manager.WDListener - Before find element
+18:30:34.612 INFO  manager.WDListener - After find element
+18:30:34.640 INFO  manager.WDListener - Huston, we have a problem!!!
+18:30:34.640 INFO  manager.WDListener - !!!!!!!!!!!!
+18:30:34.640 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@2af3b054
+18:30:34.640 INFO  manager.WDListener - Method name: alert
+18:30:34.640 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:30:34.640 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1243.png
+18:30:39.161 INFO  tests.TestBase - Assert check is alert Wrong email or password
+18:30:39.164 INFO  manager.TestNGListener - Start test: null
+18:30:39.165 INFO  tests.TestBase - Name of method ---> loginWrongEmail
+18:30:44.215 INFO  tests.TestBase - Before method finished logout
+18:30:44.216 INFO  manager.TestNGListener - Start test: LoginTests.loginWrongEmail()[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:44.216 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456!
+18:30:44.216 INFO  manager.WDListener - Before find element
+18:30:44.238 INFO  manager.WDListener - After find element
+18:30:44.280 INFO  manager.WDListener - Before find element
+18:30:44.295 INFO  manager.WDListener - After find element
+18:30:44.396 INFO  manager.WDListener - Before find element
+18:30:44.402 INFO  manager.WDListener - After find element
+18:30:44.487 INFO  manager.WDListener - Before find element
+18:30:44.498 INFO  manager.WDListener - After find element
+18:30:44.528 INFO  manager.WDListener - Huston, we have a problem!!!
+18:30:44.528 INFO  manager.WDListener - !!!!!!!!!!!!
+18:30:44.528 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@48788853
+18:30:44.528 INFO  manager.WDListener - Method name: alert
+18:30:44.529 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:30:44.529 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1140.png
+18:30:49.054 INFO  tests.TestBase - Assert check is alert Wrong email or password
+18:30:49.054 INFO  manager.TestNGListener - Start test: null
+18:30:49.055 INFO  tests.TestBase - Name of method ---> loginWrongPassword
+18:30:54.092 INFO  tests.TestBase - Before method finished logout
+18:30:54.095 INFO  manager.TestNGListener - Start test: LoginTests.loginWrongPassword()[pri:0, instance:tests.LoginTests@7a8fa663]
+18:30:54.095 INFO  tests.TestBase - Test data--> email:sonicboom@gmail.com & password:Snow123456
+18:30:54.095 INFO  manager.WDListener - Before find element
+18:30:54.108 INFO  manager.WDListener - After find element
+18:30:54.144 INFO  manager.WDListener - Before find element
+18:30:54.159 INFO  manager.WDListener - After find element
+18:30:54.262 INFO  manager.WDListener - Before find element
+18:30:54.269 INFO  manager.WDListener - After find element
+18:30:54.357 INFO  manager.WDListener - Before find element
+18:30:54.370 INFO  manager.WDListener - After find element
+18:30:54.400 INFO  manager.WDListener - Huston, we have a problem!!!
+18:30:54.401 INFO  manager.WDListener - !!!!!!!!!!!!
+18:30:54.401 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@40416321
+18:30:54.401 INFO  manager.WDListener - Method name: alert
+18:30:54.401 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:30:54.401 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1902.png
+18:30:58.916 INFO  tests.TestBase - Assert check is alert Wrong email or password
+18:30:58.916 INFO  manager.TestNGListener - Start test: null
+18:30:58.918 INFO  tests.TestBase - Name of method ---> registrationEmptyEmail
+18:31:03.926 INFO  manager.TestNGListener - Start test: RegistrationTest.registrationEmptyEmail()[pri:0, instance:tests.RegistrationTest@2783717b]
+18:31:03.927 INFO  manager.WDListener - Before find element
+18:31:03.944 INFO  manager.WDListener - After find element
+18:31:03.981 INFO  manager.WDListener - Before find element
+18:31:03.999 INFO  manager.WDListener - After find element
+18:31:04.115 INFO  manager.WDListener - Before find element
+18:31:04.123 INFO  manager.WDListener - After find element
+18:31:04.238 INFO  manager.WDListener - Before find element
+18:31:04.249 INFO  manager.WDListener - After find element
+18:31:16.321 INFO  manager.TestNGListener - Start test: null
+18:31:16.324 INFO  tests.TestBase - Name of method ---> registrationEmptyPassword
+18:31:21.337 INFO  manager.TestNGListener - Start test: RegistrationTest.registrationEmptyPassword()[pri:0, instance:tests.RegistrationTest@2783717b]
+18:31:21.339 INFO  manager.WDListener - Before find element
+18:31:21.348 INFO  manager.WDListener - After find element
+18:31:21.377 INFO  manager.WDListener - Before find element
+18:31:21.387 INFO  manager.WDListener - After find element
+18:31:21.493 INFO  manager.WDListener - Before find element
+18:31:21.501 INFO  manager.WDListener - After find element
+18:31:21.571 INFO  manager.WDListener - Before find element
+18:31:21.577 INFO  manager.WDListener - After find element
+18:31:21.601 INFO  manager.WDListener - Huston, we have a problem!!!
+18:31:21.601 INFO  manager.WDListener - !!!!!!!!!!!!
+18:31:21.601 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@48a21ea6
+18:31:21.601 INFO  manager.WDListener - Method name: alert
+18:31:21.602 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:31:21.602 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1423.png
+18:31:26.126 INFO  manager.TestNGListener - Start test: null
+18:31:26.127 INFO  tests.TestBase - Name of method ---> registrationExistUser
+18:31:31.148 INFO  manager.TestNGListener - Start test: RegistrationTest.registrationExistUser()[pri:0, instance:tests.RegistrationTest@2783717b]
+18:31:31.148 INFO  manager.WDListener - Before find element
+18:31:31.162 INFO  manager.WDListener - After find element
+18:31:31.199 INFO  manager.WDListener - Before find element
+18:31:31.219 INFO  manager.WDListener - After find element
+18:31:31.314 INFO  manager.WDListener - Before find element
+18:31:31.320 INFO  manager.WDListener - After find element
+18:31:31.411 INFO  manager.WDListener - Before find element
+18:31:31.430 INFO  manager.WDListener - After find element
+18:31:31.464 INFO  manager.WDListener - Huston, we have a problem!!!
+18:31:31.464 INFO  manager.WDListener - !!!!!!!!!!!!
+18:31:31.464 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@69988d42
+18:31:31.464 INFO  manager.WDListener - Method name: alert
+18:31:31.464 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:31:31.464 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1888.png
+18:31:35.984 INFO  manager.TestNGListener - Start test: null
+18:31:35.985 INFO  tests.TestBase - Name of method ---> registrationSuccess
+18:31:40.997 INFO  manager.TestNGListener - Start test: RegistrationTest.registrationSuccess()[pri:0, instance:tests.RegistrationTest@2783717b]
+18:31:40.998 INFO  manager.WDListener - Before find element
+18:31:41.008 INFO  manager.WDListener - After find element
+18:31:41.038 INFO  manager.WDListener - Before find element
+18:31:41.055 INFO  manager.WDListener - After find element
+18:31:41.194 INFO  manager.WDListener - Before find element
+18:31:41.204 INFO  manager.WDListener - After find element
+18:31:41.418 INFO  manager.WDListener - Before find element
+18:31:41.433 INFO  manager.WDListener - After find element
+18:31:41.828 INFO  manager.WDListener - Before find element
+18:31:42.003 INFO  manager.WDListener - After find element
+18:31:42.014 INFO  manager.TestNGListener - Start test: null
+18:31:42.017 INFO  tests.TestBase - Name of method ---> registrationWrongEmail
+18:31:42.041 INFO  manager.WDListener - Before find element
+18:31:42.050 INFO  manager.WDListener - After find element
+18:31:42.083 INFO  manager.TestNGListener - Start test: RegistrationTest.registrationWrongEmail()[pri:0, instance:tests.RegistrationTest@2783717b]
+18:31:42.084 INFO  manager.WDListener - Before find element
+18:31:42.093 INFO  manager.WDListener - After find element
+18:31:42.122 INFO  manager.WDListener - Before find element
+18:31:42.130 INFO  manager.WDListener - After find element
+18:31:42.280 INFO  manager.WDListener - Before find element
+18:31:42.293 INFO  manager.WDListener - After find element
+18:31:42.417 INFO  manager.WDListener - Before find element
+18:31:42.425 INFO  manager.WDListener - After find element
+18:31:47.469 INFO  manager.TestNGListener - Start test: null
+18:31:47.470 INFO  tests.TestBase - Name of method ---> registrationWrongPassword
+18:31:52.553 INFO  manager.TestNGListener - Start test: RegistrationTest.registrationWrongPassword()[pri:0, instance:tests.RegistrationTest@2783717b]
+18:31:52.557 INFO  manager.WDListener - Before find element
+18:31:52.580 INFO  manager.WDListener - After find element
+18:31:52.617 INFO  manager.WDListener - Before find element
+18:31:52.626 INFO  manager.WDListener - After find element
+18:31:52.766 INFO  manager.WDListener - Before find element
+18:31:52.776 INFO  manager.WDListener - After find element
+18:31:52.907 INFO  manager.WDListener - Before find element
+18:31:52.924 INFO  manager.WDListener - After find element
+18:31:53.005 INFO  manager.WDListener - Huston, we have a problem!!!
+18:31:53.005 INFO  manager.WDListener - !!!!!!!!!!!!
+18:31:53.005 INFO  manager.WDListener - Object target:org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator@3c62c81f
+18:31:53.005 INFO  manager.WDListener - Method name: alert
+18:31:53.006 INFO  manager.WDListener - InvocationTargetException: org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3fcf511fb2ed41584e26ef3ac4dbfe22, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: /var/folders/pr/6xtyzzbd321...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55799/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fcf511fb2ed41584e26ef3ac4dbfe22
+18:31:53.008 INFO  manager.WDListener - Screen with error is --->src/test/screenshots/screen_1230.png
+18:31:57.534 INFO  manager.TestNGListener - Start test: null
+18:31:57.535 INFO  tests.TestBase - Name of method ---> removeAllContacts
+18:32:02.544 INFO  manager.WDListener - Before find element
+18:32:02.555 INFO  manager.WDListener - After find element
+18:32:02.600 INFO  manager.WDListener - Before find element
+18:32:02.607 INFO  manager.WDListener - After find element
+18:32:02.716 INFO  manager.WDListener - Before find element
+18:32:02.726 INFO  manager.WDListener - After find element
+18:32:02.834 INFO  manager.WDListener - Before find element
+18:32:02.869 INFO  manager.WDListener - After find element
+18:32:03.414 INFO  manager.TestNGListener - Start test: RemoveContactTests.removeAllContacts()[pri:0, instance:tests.RemoveContactTests@4a335fa8]
+18:32:03.487 INFO  manager.HelperBase - Number of Contacts before remove---> 6
+18:32:03.487 INFO  manager.WDListener - Before find element
+18:32:03.495 INFO  manager.WDListener - After find element
+18:32:03.523 INFO  manager.WDListener - Before find element
+18:32:03.533 INFO  manager.WDListener - After find element
+18:32:04.606 INFO  manager.HelperBase - Number of Contacts after remove---> 6
+18:32:04.727 INFO  manager.HelperBase - Number of Contacts before remove---> 5
+18:32:04.727 INFO  manager.WDListener - Before find element
+18:32:04.740 INFO  manager.WDListener - After find element
+18:32:04.913 INFO  manager.WDListener - Before find element
+18:32:05.046 INFO  manager.WDListener - After find element
+18:32:06.177 INFO  manager.HelperBase - Number of Contacts after remove---> 5
+18:32:06.238 INFO  manager.HelperBase - Number of Contacts before remove---> 4
+18:32:06.239 INFO  manager.WDListener - Before find element
+18:32:06.256 INFO  manager.WDListener - After find element
+18:32:06.296 INFO  manager.WDListener - Before find element
+18:32:06.306 INFO  manager.WDListener - After find element
+18:32:07.361 INFO  manager.HelperBase - Number of Contacts after remove---> 4
+18:32:07.395 INFO  manager.HelperBase - Number of Contacts before remove---> 3
+18:32:07.395 INFO  manager.WDListener - Before find element
+18:32:07.405 INFO  manager.WDListener - After find element
+18:32:07.438 INFO  manager.WDListener - Before find element
+18:32:07.452 INFO  manager.WDListener - After find element
+18:32:08.504 INFO  manager.HelperBase - Number of Contacts after remove---> 3
+18:32:08.522 INFO  manager.HelperBase - Number of Contacts before remove---> 2
+18:32:08.522 INFO  manager.WDListener - Before find element
+18:32:08.528 INFO  manager.WDListener - After find element
+18:32:08.553 INFO  manager.WDListener - Before find element
+18:32:08.559 INFO  manager.WDListener - After find element
+18:32:09.595 INFO  manager.HelperBase - Number of Contacts after remove---> 2
+18:32:09.609 INFO  manager.HelperBase - Number of Contacts before remove---> 1
+18:32:09.609 INFO  manager.WDListener - Before find element
+18:32:09.616 INFO  manager.WDListener - After find element
+18:32:09.641 INFO  manager.WDListener - Before find element
+18:32:09.647 INFO  manager.WDListener - After find element
+18:32:15.697 INFO  manager.HelperBase - Number of Contacts after remove---> 1
+18:32:20.757 INFO  manager.WDListener - Before find element
+18:32:20.777 INFO  manager.WDListener - After find element
+18:32:20.788 INFO  manager.TestNGListener - Start test: null
+18:32:20.793 INFO  tests.TestBase - Name of method ---> removeFirstContact
+18:32:26.843 INFO  manager.WDListener - Before find element
+18:32:26.853 INFO  manager.WDListener - After find element
+18:32:26.917 INFO  manager.WDListener - Before find element
+18:32:26.930 INFO  manager.WDListener - After find element
+18:32:27.003 INFO  manager.WDListener - Before find element
+18:32:27.011 INFO  manager.WDListener - After find element
+18:32:27.084 INFO  manager.WDListener - Before find element
+18:32:27.093 INFO  manager.WDListener - After find element
+18:32:27.168 INFO  manager.WDListener - Before find element
+18:32:27.176 INFO  manager.WDListener - After find element
+18:32:27.250 INFO  manager.WDListener - Before find element
+18:32:27.259 INFO  manager.WDListener - After find element
+18:32:27.350 INFO  manager.WDListener - Before find element
+18:32:27.358 INFO  manager.WDListener - After find element
+18:32:33.438 INFO  manager.WDListener - Before find element
+18:32:33.464 INFO  manager.WDListener - After find element
+18:32:34.503 INFO  manager.WDListener - Before find element
+18:32:34.511 INFO  manager.WDListener - After find element
+18:32:34.545 INFO  manager.WDListener - Before find element
+18:32:34.554 INFO  manager.WDListener - After find element
+18:32:34.645 INFO  manager.WDListener - Before find element
+18:32:34.652 INFO  manager.WDListener - After find element
+18:32:34.723 INFO  manager.WDListener - Before find element
+18:32:34.730 INFO  manager.WDListener - After find element
+18:32:34.804 INFO  manager.WDListener - Before find element
+18:32:34.813 INFO  manager.WDListener - After find element
+18:32:34.926 INFO  manager.WDListener - Before find element
+18:32:34.936 INFO  manager.WDListener - After find element
+18:32:35.022 INFO  manager.WDListener - Before find element
+18:32:35.030 INFO  manager.WDListener - After find element
+18:32:41.129 INFO  manager.WDListener - Before find element
+18:32:41.147 INFO  manager.WDListener - After find element
+18:32:42.174 INFO  manager.WDListener - Before find element
+18:32:42.184 INFO  manager.WDListener - After find element
+18:32:42.222 INFO  manager.WDListener - Before find element
+18:32:42.231 INFO  manager.WDListener - After find element
+18:32:42.303 INFO  manager.WDListener - Before find element
+18:32:42.308 INFO  manager.WDListener - After find element
+18:32:42.378 INFO  manager.WDListener - Before find element
+18:32:42.384 INFO  manager.WDListener - After find element
+18:32:42.459 INFO  manager.WDListener - Before find element
+18:32:42.465 INFO  manager.WDListener - After find element
+18:32:42.538 INFO  manager.WDListener - Before find element
+18:32:42.544 INFO  manager.WDListener - After find element
+18:32:42.614 INFO  manager.WDListener - Before find element
+18:32:42.623 INFO  manager.WDListener - After find element
+18:32:48.693 INFO  manager.WDListener - Before find element
+18:32:48.705 INFO  manager.WDListener - After find element
+18:32:48.732 INFO  manager.TestNGListener - Start test: RemoveContactTests.removeFirstContact()[pri:0, instance:tests.RemoveContactTests@4a335fa8]
+18:32:49.416 INFO  manager.HelperBase - Number of Contacts before remove---> 3
+18:32:49.416 INFO  manager.WDListener - Before find element
+18:32:49.425 INFO  manager.WDListener - After find element
+18:32:49.460 INFO  manager.WDListener - Before find element
+18:32:49.468 INFO  manager.WDListener - After find element
+18:32:50.506 INFO  manager.HelperBase - Number of Contacts after remove---> 3
+18:32:50.506 INFO  manager.TestNGListener - Start test: null
+18:32:50.511 INFO  manager.TestNGListener - End test: Gradle test
