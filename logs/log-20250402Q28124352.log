@@ -1,0 +1,51 @@
+12:44:02.280 INFO  manager.ApplicationManager - All tests run in ChromeBroweser
+12:44:02.489 INFO  manager.WDListener - url-->https://telranedu.web.app/home
+12:44:03.868 INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+12:44:03.876 INFO  manager.TestNGListener - Start test: Wed Apr 02 12:44:03 IDT 2025
+12:44:08.933 INFO  manager.WDListener - Before find element
+12:44:08.949 INFO  manager.WDListener - After find element
+12:44:08.997 INFO  manager.WDListener - Before find element
+12:44:09.011 INFO  manager.WDListener - After find element
+12:44:09.155 INFO  manager.WDListener - Before find element
+12:44:09.172 INFO  manager.WDListener - After find element
+12:44:09.248 INFO  manager.WDListener - Before find element
+12:44:09.260 INFO  manager.WDListener - After find element
+12:44:09.293 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFull
+12:44:09.294 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFull(models.Contacts)[pri:0, instance:tests.AddcontactTests@73db4768]
+12:44:10.302 INFO  manager.WDListener - Before find element
+12:44:10.321 INFO  manager.WDListener - After find element
+12:44:10.353 INFO  manager.WDListener - Before find element
+12:44:10.367 INFO  manager.WDListener - After find element
+12:44:10.444 INFO  manager.WDListener - Before find element
+12:44:10.455 INFO  manager.WDListener - After find element
+12:44:10.528 INFO  manager.WDListener - Before find element
+12:44:10.540 INFO  manager.WDListener - After find element
+12:44:10.615 INFO  manager.WDListener - Before find element
+12:44:10.625 INFO  manager.WDListener - After find element
+12:44:10.700 INFO  manager.WDListener - Before find element
+12:44:10.710 INFO  manager.WDListener - After find element
+12:44:10.792 INFO  manager.WDListener - Before find element
+12:44:10.804 INFO  manager.WDListener - After find element
+12:44:17.393 INFO  manager.WDListener - Before find element
+12:44:17.413 INFO  manager.WDListener - After find element
+12:44:18.491 INFO  manager.TestNGListener - Start test: null
+12:44:18.492 INFO  tests.TestBase - Name of method ---> addNewContactSuccessFull
+12:44:18.492 INFO  manager.TestNGListener - Start test: AddcontactTests.addNewContactSuccessFull(models.Contacts)[pri:0, instance:tests.AddcontactTests@73db4768]
+12:44:19.498 INFO  manager.WDListener - Before find element
+12:44:19.511 INFO  manager.WDListener - After find element
+12:44:19.543 INFO  manager.WDListener - Before find element
+12:44:19.552 INFO  manager.WDListener - After find element
+12:44:19.624 INFO  manager.WDListener - Before find element
+12:44:19.631 INFO  manager.WDListener - After find element
+12:44:19.703 INFO  manager.WDListener - Before find element
+12:44:19.712 INFO  manager.WDListener - After find element
+12:44:19.786 INFO  manager.WDListener - Before find element
+12:44:19.793 INFO  manager.WDListener - After find element
+12:44:19.864 INFO  manager.WDListener - Before find element
+12:44:19.873 INFO  manager.WDListener - After find element
+12:44:19.946 INFO  manager.WDListener - Before find element
+12:44:19.953 INFO  manager.WDListener - After find element
+12:44:26.267 INFO  manager.WDListener - Before find element
+12:44:26.284 INFO  manager.WDListener - After find element
+12:44:27.363 INFO  manager.TestNGListener - Start test: null
+12:44:27.366 INFO  manager.TestNGListener - End test: Gradle test
